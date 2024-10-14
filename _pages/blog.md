@@ -4,10 +4,12 @@ author_profile: true
 ---
 
 <style>
-  body {
+  .page__title, 
+  .archive__item-title, 
+  .page__meta, 
+  .page__date, 
+  .archive__item-excerpt {
       font-size: 15px; /* Sets the font size for all text */
-      margin: 0; /* Remove default margin */
-      padding: 0; /* Remove default padding */
   }
 
   .list__item {
