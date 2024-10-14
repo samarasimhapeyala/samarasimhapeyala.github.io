@@ -8,6 +8,8 @@ author_profile: true
   font-size: 15px;
   color: #1B1212;
   line-height: 1.6;
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margin */
 }
 .content-container a {
   text-decoration: none;
@@ -68,13 +70,13 @@ author_profile: true
 
 <div class="content-container">
 
-<div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6; font-size: 15px;">
+<div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6; font-size: 15px; padding: 0; margin: 0;">
 
 <p>If you feel connecting with me, click here to send a quick message</p>
     
-<div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-    <form action="https://formspree.io/mbjzdajy" method="post" role="form" style="border: 2px solid #2985d8; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
-      <h3 class="text-center" style="color: #2985d8;">📩 Contact Me</h3>
+<div class="col-lg-12 mt-5 mt-lg-0 d-flex align-items-stretch">
+    <form action="https://formspree.io/mbjzdajy" method="post" role="form" style="border: 2px solid #2985d8; border-radius: 10px; padding: 20px; background-color: #f9f9f9; width: 100%;">
+      <h2 class="text-center" style="color: #2985d8;">📩 Contact Me</h2>
       <div class="row">
         <div class="form-group col-md-6">
           <label for="name">👤 Your Name</label>
@@ -100,4 +102,3 @@ author_profile: true
       </div>
     </form>
 </div>
-
