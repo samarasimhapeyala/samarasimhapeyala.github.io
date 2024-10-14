@@ -51,7 +51,6 @@ author_profile: true
 
 <br>
 
-<!-- Include CSS styles for recommendations -->
 <style>
 .testimonials {
   width: 100%;
@@ -68,7 +67,7 @@ author_profile: true
 
 .testimonial-slider {
   display: flex;
-  width: 300%; /* Adjusted for more testimonials */
+  width: 300%; /* Total width for three cards */
 }
 
 .testimonial-box {
@@ -77,7 +76,7 @@ author_profile: true
   box-sizing: border-box;
   background: white;
   margin: 0 15px;
-  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -85,7 +84,7 @@ author_profile: true
 }
 
 .testimonial-content {
-  font-size: 16px;
+  font-size: 15px;
   color: #444;
   font-style: italic;
   margin-bottom: 15px;
@@ -115,26 +114,13 @@ author_profile: true
   font-size: 14px;
   color: #777;
 }
-
-/* Add some animation for auto-sliding */
-@keyframes slide {
-  0% { transform: translateX(0); }
-  25% { transform: translateX(-50%); }
-  50% { transform: translateX(-100%); }
-  75% { transform: translateX(-150%); }
-  100% { transform: translateX(0); }
-}
-
-.testimonial-slider {
-  animation: slide 12s infinite;
-}
 </style>
 
-<!-- HTML structure for Recommendations -->
+<h1 style="text-align: center;">Recommendations</h1>
+
 <div class="testimonials">
-  <h2 style="text-align: center;">Recommendations</h2>
   <div class="testimonial-container">
-    <div class="testimonial-slider">
+    <div class="testimonial-slider" id="testimonialSlider">
       <!-- First recommendation -->
       <div class="testimonial-box">
         <div class="testimonial-content">
@@ -174,8 +160,24 @@ author_profile: true
           </div>
         </div>
       </div>
-      <!-- Fourth recommendation -->
     </div>
   </div>
+
+  <script>
+const slider = document.getElementById('testimonialSlider');
+const testimonials = document.querySelectorAll('.testimonial-box');
+let index = 0;
+
+function slideTestimonials() {
+  index = (index + 1) % (testimonials.length - 1); // Wrap around
+  const offset = index * -50; // Move by 50% (two cards)
+  slider.style.transform = `translateX(${offset}%)`;
+}
+
+setInterval(slideTestimonials, 2000); // Change every 2 seconds
+</script>
+
 </div>
+
+
 
