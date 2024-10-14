@@ -93,14 +93,14 @@ author_profile: true
   font-size: 14px;
   color: #444;
   font-style: italic;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 
 .client-info {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .client-info img {
@@ -111,13 +111,13 @@ author_profile: true
 }
 
 .client-info .client-name {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
   color: #333;
 }
 
 .client-info .client-title {
-  font-size: 14px;
+  font-size: 13px;
   color: #777;
 }
 </style>
