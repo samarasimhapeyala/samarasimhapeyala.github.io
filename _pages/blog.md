@@ -53,18 +53,6 @@ author_profile: true
   font-size: 14px;
 }
 </style>
-<style>
-.research-interest {
-  background-color: #f3f6f4; /* Light grey */
-  padding: 10px;
-  border-radius: 5px;
-  transition: background-color 0.3s ease; /* Smooth transition for background color */
-}
-
-.research-interest:hover {
-  background-color: #d0d0d0; /* Deeper grey on hover */
-}
-</style>
 
 <div class="content-container">
 
@@ -77,7 +65,7 @@ author_profile: true
 <a href="https://medium.com/@samarasimhapeyala/measures-and-myths-of-artificial-intelligence-ai-ff47b093f03" rel="permalink" style="font-size: 15px;">Measures and Myths of Artificial Intelligence(AI)</a>
 </h2>
 <p class="page__meta" style="font-size: 15px;"><i class="fa fa-clock-o" aria-hidden="true"></i> less than 5 minute read</p>
-<p class="page__date" style="font-size: 15px;"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2199-01-01T00:00:00+00:00">Jul 05, 2020</time></p>
+<p class="page__date" style="font-size: 15px;"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2199-01-01T00:00:00+00:00">Jul, 2020</time></p>
 <p class="archive__item-excerpt" itemprop="description" style="font-size: 15px;">This post will discuss about the common myths about AI and what kind of measures need to be taken to overcome those.</p>
 </article>
 </div>
@@ -91,4 +79,3 @@ author_profile: true
 <p class="page__date" style="font-size: 15px;"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2015-08-14T00:00:00+00:00">May, 2020</time></p>
 <p class="archive__item-excerpt" itemprop="description" style="font-size: 15px;">This article gives solid introduction to AI through simple words in laymen terms for beginners.</p>
 </article>
-</div>
