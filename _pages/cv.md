@@ -110,7 +110,7 @@ redirect_from:
         </ul>
     </li>
 </ul>
-
+<br>
 <h1 id="work-experience">Work Experience</h1>
 <ul>
     <li>
@@ -165,7 +165,7 @@ redirect_from:
         </ul>
     </li>
 </ul>
-
+<br>
 <h1 id="skills">Skills</h1>
 <ul>
     <li><strong>Programming Languages:</strong> Python, Apex, Java, C, SQL, Matlab</li>
@@ -174,7 +174,7 @@ redirect_from:
     <li><strong>Cloud Platforms:</strong> Salesforce - LWC, Lightning, Admin, Integration, Heroku, AWS Cloud Services, IBM Cloud</li>
     <li><strong>Others:</strong> Deep Learning, HTML, CSS, Flask, MS Office, Git, Ubuntu, Windows, MacOS</li>
 </ul>
-
+<br>
 <h1 id="courses-certifications">Courses and Certifications</h1>
 <ul>
     <li><strong>Salesforce Certified</strong> Platform Developer-I, <strong>Salesforce Certified</strong> Administrator</li>
@@ -183,7 +183,7 @@ redirect_from:
     <li><strong>Cambridge English</strong> KET Certification, <strong>NASSCOM</strong> Foundational Artificial Intelligence</li>
     <li><strong>Stanford University</strong> Course on Internet of Things, <strong>Deeplearning.ai</strong> Course on Deep Learning Specialization</li>
 </ul>
-
+<br>
 <h1 id="workshops-conferences">Workshops/Competitions/Conferences</h1>
 <ul>
     <li>Attended <strong>India's biggest Gen AI Summit</strong> Machine Learning Developers Summit (MLDS2024) organized by <strong>AIM Analytics India Magazine</strong>, held in Bangalore</li>
