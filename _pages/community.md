@@ -2,6 +2,7 @@
 permalink: /community/
 author_profile: true
 ---
+<div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6;">
 
 <h1 class="page__title"></h1>
 <p style="font-size: 15px;">I am always eager to take initiatives and contribute positively, harnessing technology and innovation to give back to my nation. I firmly believe that true success lies in empowering others and uplifting communities through collaboration and shared knowledge.</p>
