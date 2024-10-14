@@ -116,7 +116,7 @@ redirect_from:
   <ul class="updates-list">
     <li><strong>[Feb. 2024]</strong> Attended two-day India's Biggest GenAI Summit, the Machine Learning Developers Summit <a href="https://mlds.analyticsindiamag.com/"> (MLDS2024)</a> held in Bangalore</li>
     <li><strong>[Apr. 2023]</strong> Started my Master's in Artificial Intelligence and Machine Learning in BITS Pilani, India</li>
-    <li><strong>[Aug. 2023]</strong> Elected as First General Secretary for the RGUKT RK Valley Alumni Association (RGURAA)</li>
+    <li><strong>[Aug. 2023]</strong> Elected as an External Secretary for the RGUKT RK Valley Alumni Association (RGURAA)</li>
     <li><strong>[Aug. 2023]</strong> Successfully completed the 30-day <a href="https://cvit.iiit.ac.in/summerschool2023/"> 7th Summer School</a> on AI with a focus on Computer Vision & Machine Learning, hosted by CVIT, IIIT Hyderabad</li>
     <li><strong>[Apr. 2023]</strong> Started new journey as a founding Machine Learning Engineer at Hitloop, India</li>
     <li><strong>[Apr. 2023]</strong> My journey as a Software Engineer at Forsys has ended to purse core research on AI</li>
