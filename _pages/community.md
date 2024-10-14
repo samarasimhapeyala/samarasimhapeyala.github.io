@@ -47,14 +47,8 @@ author_profile: true
     </div>
     <br>
     
-<style>
-  body {
-    font-size: 15px;
-  }
-</style>
-
-<h1 id="volunteer-experience">Volunteer Experience</h1>
-<ul>
+<h1 id="volunteer-experience" style="font-size: 15px;">Volunteer Experience</h1>
+<ul style="font-size: 15px;">
   <li>
     <strong>Program Lead</strong> in <a href="https://konamfoundation.org/" style="color: rgb(16, 158, 176); text-decoration: none;">KONAM Foundation</a><em> (Aug 2023 - Present)</em><br>
     <ul>
@@ -89,8 +83,8 @@ author_profile: true
   </li>
 </ul>
 
-<h1 id="positions-of-responsibility">Positions of Responsibility</h1>
-<ul>
+<h1 id="positions-of-responsibility" style="font-size: 15px;">Positions of Responsibility</h1>
+<ul style="font-size: 15px;">
   <li>
     <strong>External Secretary</strong> in RGUKT RK Valley Alumni Association <a href="https://alumni.rguktrkv.ac.in/" style="color: rgb(16, 158, 176); text-decoration: none;">(RGURAA)</a><em> (Aug 2023 - Present)</em><br>
     <ul>
@@ -100,7 +94,7 @@ author_profile: true
   <li>
     <strong>Student Coordinator</strong> in <a href="https://www.linkedin.com/company/career-development-and-placement-cell-cdpc-rgukt-rk-valley" style="color: rgb(16, 158, 176); text-decoration: none;">Career Development & Placement Cell</a><em> (2020 - 2022)</em><br>
     <ul>
-      <li>Involved in the campus placements, trainings for the students, interacted with many HRs from different companies and ensured smooth functioning of the placement drive on-campus</li>
+      <li>Involved in the campus placements, trainings for the students, interacted with many HRs from different companies and ensured smooth functioning of the placement drive on-campus.</li>
     </ul>
   </li>
   <li>
