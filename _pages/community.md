@@ -14,7 +14,7 @@ author_profile: true
             padding: 10px;
             display: flex;
             align-items: center;
-            gap: 10px;
+            gap: 3px;
             transition: box-shadow 0.3s ease; /* Smooth transition for shadow */
         }
     
@@ -23,7 +23,7 @@ author_profile: true
         }
     
         .talk-image {
-            width: 350px;
+            width: 370px;
             height: auto;
             border-radius: 8px;
         }
