@@ -2,16 +2,10 @@
 permalink: /contact/
 author_profile: true
 ---
-<div class="archive">
-    <head>
-      <style>
-          .archive {
-              font-size: 15px; /* Change this value to increase or decrease font size */
-          }
-      </style>
-  </head>
-      <h1 class="page__title"></h1>
-      <p>If you feel connecting with me, click here to send a quick message</p>
+<div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6;">
+
+<h1 class="page__title"></h1>
+    <p style="font-size: 15px;>If you feel connecting with me, click here to send a quick message</p>
     
   <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
     <form action="https://formspree.io/mbjzdajy" method="post" role="form" style="border: 2px solid #2985d8; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
@@ -42,5 +36,3 @@ author_profile: true
     </form>
   </div>
       
-  </div>
-
