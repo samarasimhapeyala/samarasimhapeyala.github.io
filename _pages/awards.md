@@ -3,8 +3,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-  <div class="archive">    
-      <h1 class="page__title">Awards and Achievements</h1>
+<h1 class="page__title">Awards and Achievements</h1>
       
 
 <section class="page__content" itemprop="text">
