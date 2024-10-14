@@ -50,6 +50,7 @@ author_profile: true
 </div>
 
 <br>
+
 <!-- Include CSS styles for recommendations -->
 <style>
 .testimonials {
@@ -67,11 +68,11 @@ author_profile: true
 
 .testimonial-slider {
   display: flex;
-  width: 300%;
+  width: 300%; /* Adjusted for more testimonials */
 }
 
 .testimonial-box {
-  width: 33.33%;
+  width: 50%; /* Show 2 cards at a time */
   padding: 20px;
   box-sizing: border-box;
   background: white;
@@ -79,21 +80,22 @@ author_profile: true
   box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
   border-radius: 10px;
   display: flex;
-  flex-direction: row;
-  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .testimonial-content {
   font-size: 16px;
   color: #444;
   font-style: italic;
-  flex: 1;
+  margin-bottom: 15px;
 }
 
 .client-info {
   display: flex;
   align-items: center;
-  margin-left: 15px;
+  justify-content: flex-start;
+  margin-top: 20px;
 }
 
 .client-info img {
@@ -117,13 +119,14 @@ author_profile: true
 /* Add some animation for auto-sliding */
 @keyframes slide {
   0% { transform: translateX(0); }
-  33% { transform: translateX(-100%); }
-  66% { transform: translateX(-200%); }
+  25% { transform: translateX(-50%); }
+  50% { transform: translateX(-100%); }
+  75% { transform: translateX(-150%); }
   100% { transform: translateX(0); }
 }
 
 .testimonial-slider {
-  animation: slide 10s infinite;
+  animation: slide 12s infinite;
 }
 </style>
 
@@ -171,6 +174,8 @@ author_profile: true
           </div>
         </div>
       </div>
+      <!-- Fourth recommendation -->
     </div>
   </div>
 </div>
+
