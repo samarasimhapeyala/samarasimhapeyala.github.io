@@ -1,73 +1,50 @@
 ---
 permalink: /projects/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-{% include base_path %}
-<div class="archive" style="margin: 0; padding: 0;">
-<head>
-  <style>
-      .archive {
-          font-size: 15px;
-          margin: 0; /* Remove default margin */
-          padding: 0; /* Remove default padding */
-      }
-      .content-container {
-          margin: 0; /* Remove left margin */
-          padding: 0; /* Remove padding */
-      }
-  </style>
-</head>
-
-<div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6;">
-
-  <h1 class="page__title"></h1>
-  <p>I have listed out only a few academic and internship projects</p>
-
-  <h1 id="education"><strong>Academic and Internship Projects</strong></h1>
-
-  <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
-      <tbody>
-          <tr>
-              <td style="width:200px; height:200px; vertical-align: top; border: none;">
-                  <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro1.png" width="200px" height="200px" />
-              </td>
-              <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
-                  <p>
-                      Samarasimha Reddy <br />
-                      <strong>Blind Face Restoration and Image Enhancement</strong> <br />
-                      <i>Apr, 2022 <a href="https://github.com/samarasimhapeyala" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
-                      <i>Trained the GFP-GAN on the FFHQ dataset, generating color images from black and white and enhancing old images into high resolution.</i>
-                  </p>
-              </td>
-          </tr>
-      </tbody>
-  </table>
-
-  <!-- Repeat similar table structure for other projects -->
-  
-  <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
-      <tbody>
-          <tr>
-              <td style="width:200px; height:200px; vertical-align: top; border: none;">
-                  <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro2.jpg" width="200px" height="200px" />
-              </td>
-              <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
-                  <p>
-                      Samarasimha Reddy <br />
-                      <strong>Evaluating LMU with Attention LSTM Models on Time Series Data</strong> <br />
-                      <i>July, 2021 <a href="https://github.com/samarasimhapeyala" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
-                      <i>Implemented LMU Models on timeseries data and evaluated them with attention LSTM models during my Research Internship at IIT Guwahati.</i>
-                  </p>
-              </td>
-          </tr>
-      </tbody>
-  </table>
-
-  <!-- Continue with the remaining tables... -->
-
+<div style="margin-bottom: 20px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 1;">
+      <img src="../images/IMG_6947.jpg" alt="Project Image" style="max-width: 100%; height: auto;">
+    </div>
+    <div style="flex: 2; padding-left: 20px; font-size: 14px;">
+      <h3>Krishak Bandhu</h3>
+      <p>In 2019, I developed Krishak Bandhu, an innovative mobile application designed to help farmers in India detect plant diseases using deep learning. While numerous techniques for plant disease detection exist, my goal was to create a solution that was both simple and cost-effective for the agricultural community. Krishak Bandhu stands out for its user-friendly interface, making advanced plant health monitoring accessible and practical for farmers across the country.</p>
+      <a href="https://devmesh.intel.com/projects/plant-disease-identification-and-treatment-for-crop-quality-improvement-using-openvino-toolkit#project-links" style="color: blue; text-decoration: none;">[Project]</a> 
+      <a href="https://medium.com/intel-software-innovators/identification-of-pathological-disease-in-plants-powered-by-intel-distribution-of-openvino-83103b9bd2ca" style="color: blue; text-decoration: none;">[Article]</a>
+      <a href="https://www.youtube.com/watch?v=M4fzpYH40uM&list=TLGGbWt2vYLhv1QyNjA3MjAyNA&t=245s" style="color: blue; text-decoration: none;">[Demo]</a>
+    </div>
+  </div>
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <img src="../images/Krishi_Bandhu.JPG" alt="Project Image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <h3>Vehicle Advanced Monitoring System (VAMS)</h3>
+    <p>VAMS is a proposed system that monitors the internal telemetry data and the outside traffic data and superimposes into a single system. This is much inclined to the concept of smart cars and the system can have multiple add-ons depending on the usage or demands. This is a collaborative project done with Avirup Base, a college senior and one of my mentors. I was responsible for the deep learning and computer vision part along with telemetry data collection for model training.</p>
+    <a href="https://insiders.intel.com/projects/vehicle-advanced-monitoring-system-vams" style="color: blue; text-decoration: none;">[Project]</a>
+    <a href="https://www.youtube.com/watch?v=nkh1xrk26wI&list=TLGG7gWMWK-BccUyNjA3MjAyNA&t=13s" style="color: blue; text-decoration: none;">[Demo]</a>
+  </div>
+</div>
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <img src="../images/Krishi_Bandhu.JPG" alt="Project Image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <h3>Chat-SARCASM</h3>
+    <p>Description of the project. This can be a detailed paragraph explaining the project, its goals, technologies used, and any other relevant information.</p>
+    <a href="LINK_TO_PROJECT">View Project</a>
+  </div>
+</div>
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <img src="../images/Krishi_Bandhu.JPG" alt="Project Image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <h3>Conversational AI With Persona</h3>
+    <p>Description of the project. This can be a detailed paragraph explaining the project, its goals, technologies used, and any other relevant information.</p>
+    <a href="LINK_TO_PROJECT">View Project</a>
+  </div>
 </div>
 </div>
-
 
