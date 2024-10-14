@@ -49,77 +49,78 @@ author_profile: true
 </div>
 
 <br>
+<br>
 
-<h1 style="text-align: center;">Recommendations</h1>
-
-<div class="testimonials">
-  <div class="testimonial-container">
-    <div class="testimonial-slider" id="testimonialSlider">
-      <!-- First recommendation -->
-      <div class="testimonial-box">
-        <div class="testimonial-content">
-          "Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid malis quorum velit fore eram velit sunt aliqua noster."
-        </div>
-        <div class="client-info">
-          <img src="client1.jpg" alt="Sara Willsson">
-          <div>
-            <div class="client-name">Sara Willsson</div>
-            <div class="client-title">Designer</div>
-          </div>
-        </div>
-      </div>
-      <!-- Second recommendation -->
-      <div class="testimonial-box">
-        <div class="testimonial-content">
-          "Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute."
-        </div>
-        <div class="client-info">
-          <img src="client2.jpg" alt="Jena Karlis">
-          <div>
-            <div class="client-name">Jena Karlis</div>
-            <div class="client-title">Store Owner</div>
-          </div>
-        </div>
-      </div>
-      <!-- Third recommendation -->
-      <div class="testimonial-box">
-        <div class="testimonial-content">
-          "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat dolor enim duis veniam ipsum anim magna sunt elit fore."
-        </div>
-        <div class="client-info">
-          <img src="client3.jpg" alt="Matt Brandon">
-          <div>
-            <div class="client-name">Matt Brandon</div>
-            <div class="client-title">Freelancer</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<script>
-const slider = document.getElementById('testimonialSlider');
-const testimonials = document.querySelectorAll('.testimonial-box');
-let index = 0;
-
-function slideTestimonials() {
-  const currentOffset = index * -50; // Move by 50% (two cards)
-  slider.style.transition = 'transform 0.5s ease';
-  slider.style.transform = `translateX(${currentOffset}%)`;
-  
-  index = (index + 1) % testimonials.length;
-
-  setTimeout(() => {
-    slider.appendChild(slider.firstElementChild); // Move the first card to the end
-    slider.style.transition = 'none'; // Disable transition
-    slider.style.transform = `translateX(0)`; // Reset position
-  }, 500); // Match this delay with the transition duration
+<style>
+.testimonials {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  padding: 50px 0;
+  background: #f9f9f9;
 }
 
-setInterval(slideTestimonials, 2000); // Change every 2 seconds
-</script>
+.testimonial-container {
+  display: flex;
+  transition: transform 0.5s ease;
+}
 
+.testimonial-slider {
+  display: flex;
+  width: 300%; /* Total width for three cards */
+}
+
+.testimonial-box {
+  width: 50%; /* Show 2 cards at a time */
+  padding: 20px;
+  box-sizing: border-box;
+  background: white;
+  margin: 0 15px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.testimonial-box:hover {
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+  transform: scale(1.02); /* Slightly enlarge the box */
+}
+
+.testimonial-content {
+  font-size: 15px;
+  color: #444;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+
+.client-info {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 20px;
+}
+
+.client-info img {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin-right: 15px;
+}
+
+.client-info .client-name {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+
+.client-info .client-title {
+  font-size: 14px;
+  color: #777;
+}
+</style>
 
 <h1 style="text-align: left;">Recommendations</h1>
 <p style="font-size: 15px;">These are the recommendations recieved on <a href="https://www.linkedin.com/in/samarasimhapeyala" style="color: rgb(16, 158, 176); text-decoration: none;">Linkedin</a> as we teamed up for the projects</p>
@@ -134,7 +135,7 @@ setInterval(slideTestimonials, 2000); // Change every 2 seconds
         <div class="client-info">
           <!--<img src="client1.jpg" alt="Sara Willsson">-->
           <div>
-            <div class="client-name"><a href="https://www.linkedin.com/in/rohitsinghonline/">Rohit Singh</a></div>
+            <div class="client-name"><a href="https://www.linkedin.com/in/rohitsinghonline/" style="color: rgb(16, 158, 176); text-decoration: none;>Rohit Singh</a></div>
             <div class="client-title">Azure Data Engineer</div>
           </div>
         </div>
@@ -147,7 +148,7 @@ setInterval(slideTestimonials, 2000); // Change every 2 seconds
         <div class="client-info">
           <!--<img src="client2.jpg" alt="Jena Karlis">-->
           <div>
-            <div class="client-name"><a href="https://www.linkedin.com/in/avinash-gundabathina-10846b140/">Avinash Gundabathina</a></div>
+            <div class="client-name"><a href="https://www.linkedin.com/in/avinash-gundabathina-10846b140/" style="color: rgb(16, 158, 176); text-decoration: none;>Avinash Gundabathina</a></div>
             <div class="client-title">Senior Engineer</div>
           </div>
         </div>
@@ -160,7 +161,7 @@ setInterval(slideTestimonials, 2000); // Change every 2 seconds
         <div class="client-info">
           <!--<img src="client3.jpg" alt="Matt Brandon">-->
           <div>
-            <div class="client-name"><a href="https://www.linkedin.com/in/charupriya-s-b37504190/">Charupriya S</a></div>
+            <div class="client-name"><a href="https://www.linkedin.com/in/charupriya-s-b37504190/" style="color: rgb(16, 158, 176); text-decoration: none;>Charupriya S</a></div>
             <div class="client-title">Software Engineer</div>
           </div>
         </div>
@@ -168,4 +169,18 @@ setInterval(slideTestimonials, 2000); // Change every 2 seconds
     </div>
   </div>
 </div>
+
+<script>
+const slider = document.getElementById('testimonialSlider');
+const testimonials = document.querySelectorAll('.testimonial-box');
+let index = 0;
+
+function slideTestimonials() {
+  index = (index + 1) % (testimonials.length - 1); // Wrap around
+  const offset = index * -50; // Move by 50% (two cards)
+  slider.style.transform = `translateX(${offset}%)`;
+}
+
+setInterval(slideTestimonials, 2000); // Change every 2 seconds
+</script>
 
