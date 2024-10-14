@@ -72,7 +72,7 @@ author_profile: true
 
 <div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6; font-size: 15px; padding: 0; margin: 0;">
 
-<p>If you feel connecting with me, click here to send a quick message</p>
+<p>If you feel connecting with me, click here to send a quick message : )</p>
     
 <div class="col-lg-12 mt-5 mt-lg-0 d-flex align-items-stretch">
     <form action="https://formspree.io/mbjzdajy" method="post" role="form" style="border: 2px solid #2985d8; border-radius: 10px; padding: 20px; background-color: #f9f9f9; width: 100%;">
