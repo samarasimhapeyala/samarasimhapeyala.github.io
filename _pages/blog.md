@@ -90,7 +90,7 @@ author_profile: true
 }
 
 .testimonial-content {
-  font-size: 15px;
+  font-size: 14px;
   color: #444;
   font-style: italic;
   margin-bottom: 15px;
@@ -111,7 +111,7 @@ author_profile: true
 }
 
 .client-info .client-name {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: bold;
   color: #333;
 }
