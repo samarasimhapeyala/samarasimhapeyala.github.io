@@ -9,15 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="archive">
-    <head>
-      <style>
-          .archive {
-              font-size: 15px;
-          }
-      </style>
-  </head>
-  <p></p>You can download my <a href="https://www.bits-pilani.ac.in/" >CV/ Resume</a> here</p>
+  <p>You can download my <a href="https://www.bits-pilani.ac.in/" >CV/ Resume</a> here</p>
 
   <h1 id="education">Education</h1>
   
