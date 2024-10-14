@@ -135,7 +135,7 @@ author_profile: true
         <div class="client-info">
           <!--<img src="client1.jpg" alt="Sara Willsson">-->
           <div>
-            <div class="client-name"><a href="https://www.linkedin.com/in/rohitsinghonline/" style="color: rgb(16, 158, 176); text-decoration: none;>Rohit Singh</a></div>
+            <div class="client-name"><a href="https://www.linkedin.com/in/rohitsinghonline/" style="color: rgb(16, 158, 176); text-decoration: none;">Rohit Singh</a></div>
             <div class="client-title">Azure Data Engineer</div>
           </div>
         </div>
@@ -148,7 +148,7 @@ author_profile: true
         <div class="client-info">
           <!--<img src="client2.jpg" alt="Jena Karlis">-->
           <div>
-            <div class="client-name"><a href="https://www.linkedin.com/in/avinash-gundabathina-10846b140/" style="color: rgb(16, 158, 176); text-decoration: none;>Avinash Gundabathina</a></div>
+            <div class="client-name"><a href="https://www.linkedin.com/in/avinash-gundabathina-10846b140/" style="color: rgb(16, 158, 176); text-decoration: none;">Avinash Gundabathina</a></div>
             <div class="client-title">Senior Engineer</div>
           </div>
         </div>
@@ -161,7 +161,7 @@ author_profile: true
         <div class="client-info">
           <!--<img src="client3.jpg" alt="Matt Brandon">-->
           <div>
-            <div class="client-name"><a href="https://www.linkedin.com/in/charupriya-s-b37504190/" style="color: rgb(16, 158, 176); text-decoration: none;>Charupriya S</a></div>
+            <div class="client-name"><a href="https://www.linkedin.com/in/charupriya-s-b37504190/" style="color: rgb(16, 158, 176); text-decoration: none;">Charupriya S</a></div>
             <div class="client-title">Software Engineer</div>
           </div>
         </div>
