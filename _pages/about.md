@@ -1,49 +1,128 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<style>
+  .content-container {
+    font-size: 14px;
+    color: #1B1212;
+    line-height: 1.6;
+  }
+  .content-container a {
+    text-decoration: none;
+    color: #4040FF;
+  }
+  .content-container a:hover {
+    text-decoration: underline;
+  }
+  .logo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0;
+  }
+  .logo-item {
+    text-align: center;
+    margin: 10px;
+  }
+  .logo-item img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  .logo-item p {
+    font-size: 14px;
+    color: #1B1212;
+  }
+  .updates-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  .updates-list li {
+    margin: 10px 0;
+  }
+  .updates-list a {
+    color: #4040FF;
+    text-decoration: none;
+  }
+  .updates-list a:hover {
+    text-decoration: underline;
+  }
+  .updates-list, h3, p {
+    font-size: 14px;
+  }
+</style>
+<style>
+  .research-interest {
+    background-color: #f3f6f4; /* Light grey */
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+  }
+  
+  .research-interest:hover {
+    background-color: #d0d0d0; /* Deeper grey on hover */
+  }
+</style>
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<div class="content-container">
+  <p style="font-size: 14px;">I am currently working as Machine Learning Engineer at <a href="https://www.hitloop.it/"> Hitloop</a>, building Multimodal Multilingual Multitask AI Systems. I'm focused on exploring computer vision applications, including face synthesis and lip regeneration using generative AI. Additionally, I work on speech technologies, developing Text-to-Speech (TTS) systems and Automatic Speech Recognition (ASR) models, along with NLP models for translation systems. I am pursuing an M.Tech in AIML (2023-25) at BITS Pilani WILP, balancing my studies with my professional role.</p>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1.3; text-align: center; margin: 10px;">
+    <div style="height: 100px; display: flex; align-items: center; justify-content: center;">
+      <img src="../images/rguktrkv.jpeg" alt="Logo1" style="width: 100px; height: 100px;">
+    </div>
+    <div style="font-size: 12px; color: #1B1212; margin-top: 10px;">B.Tech, Electronics & Com.,<br> IIIT, <a href="https://www.rguktrkv.ac.in/" style="color: #2985d8; text-decoration: none;">RGUKT RK Valley</a>, India<br>Aug. 2018 - May. 2022</div>
+  </div>
+  <div style="flex: 1.3; text-align: center; margin: 10px;">
+    <div style="height: 100px; display: flex; align-items: center; justify-content: center;">
+      <img src="../images/bits.png" alt="Logo4" style="width: 100px; height: 100px;">
+    </div>
+    <div style="font-size: 12px; color: #1B1212; margin-top: 10px;">M.Tech, Artificial Intelligence & ML, <a href="http://www.bits-pilani.ac.in/" style="color: #2985d8; text-decoration: none;">BITS Pilani</a>, India<br>Nov. 2023 - Oct. 2024</div>
+  </div>
+    <div style="flex: 1; text-align: center; margin: 10px;">
+    <div style="height: 100px; display: flex; align-items: center; justify-content: center;">
+      <img src="../images/iitg.jpg" alt="Logo4" style="width: 100px; height: 100px;">
+    </div>
+    <div style="font-size: 12px; color: #1B1212; margin-top: 10px;">Research Intern <br><a href="http://www.bits-pilani.ac.in/" style="color: #2985d8; text-decoration: none;">IIT Guwahati</a>, India<br>Mar. 2021 - Jul. 2021</div>
+  </div>
+  <div style="flex: 1.05; text-align: center; margin: 10px;">
+    <div style="height: 100px; display: flex; align-items: center; justify-content: center;">
+      <img src="../images/for.jpg" alt="Logo5" style="width: 128px; height: 128px;">
+    </div>
+    <div style="font-size: 12px; color: #1B1212; margin-top: 10px;">Software Engineer<br> <a href="https://www.forsysinc.com/" style="color: #2985d8; text-decoration: none;">Forsys Inc.</a>, India,<br>Jun. 2022 - Apr. 2023</div>
+  </div>
+  <div style="flex: 1.1; text-align: center; margin: 10px;">
+    <div style="height: 100px; display: flex; align-items: center; justify-content: center;">
+      <img src="../images/hitloop2.png" alt="Logo3" style="width: 135px; height: 43.74px;">
+    </div>
+    <div style="font-size: 12px; color: #1B1212; margin-top: 10px;">Machine Learning Engineer, <a href="https://www.hitloop.it/" style="color: #2985d8; text-decoration: none;">Hitloop</a>, India<br>Apr. 2023 - Pres.</div>
+  </div>
+</div><br>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+  <h2>Research</h2>
+  <div class="research-interest">
+    My research interest broadly includes <strong>Computer Vision focused on face synthesis, Lip regeneration, Visual Language models(VLMs), Speech applications</strong> and I worked on TTS Speech synthesis models on indic languages, ASR systems and translation language models. I'm actively looking forward to collaborate on Research work on Computer Vision, Speech. Please see the <a href="/cv/" style="color: #2985d8; text-decoration: none;">CV</a> section to know more about my Education, Skills and Experiences.
+  </div>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+  <h2>Updates</h2>
+  <ul class="updates-list">
+    <li><strong>[Feb. 2024]</strong> Attended two-day India's Biggest GenAI Summit, the Machine Learning Developers Summit <a href="https://mlds.analyticsindiamag.com/"> (MLDS2024)</a> held in Bangalore</li>
+    <li><strong>[Apr. 2023]</strong> Started my Master's in Artificial Intelligence and Machine Learning in BITS Pilani, India</li>
+    <li><strong>[Aug. 2023]</strong> Elected as First General Secretary for the RGUKT RK Valley Alumni Association (RGURAA)</li>
+    <li><strong>[Aug. 2023]</strong> Successfully completed the 30-day <a href="https://cvit.iiit.ac.in/summerschool2023/"> 7th Summer School</a> on AI with a focus on Computer Vision & Machine Learning, hosted by CVIT, IIIT Hyderabad</li>
+    <li><strong>[Apr. 2023]</strong> Started new journey as founding Machine Learning Engineer at Hitloop, India</li>
+    <li><strong>[Apr. 2023]</strong> My journey at Software Engineer at Forsys ended to purse more research on AI</li>
+  </ul>
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+</div><br>
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<div style="width: 100%; max-width: 150px; margin-left: 0;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=a7O3t_uApRAnWYL9dShmlAqfC9SZujQlv0LSpj-KyFI"></script>
+</div>
