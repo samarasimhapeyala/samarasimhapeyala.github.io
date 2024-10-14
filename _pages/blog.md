@@ -49,7 +49,8 @@ author_profile: true
     </div>
 </div>
 
-<!-- Include CSS styles for testimonials/recommendations -->
+<br>
+<!-- Include CSS styles for recommendations -->
 <style>
 .testimonials {
   width: 100%;
@@ -64,26 +65,35 @@ author_profile: true
   transition: transform 0.5s ease;
 }
 
+.testimonial-slider {
+  display: flex;
+  width: 300%;
+}
+
 .testimonial-box {
-  width: 100%;
+  width: 33.33%;
   padding: 20px;
   box-sizing: border-box;
   background: white;
   margin: 0 15px;
   box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
   border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 
 .testimonial-content {
   font-size: 16px;
   color: #444;
   font-style: italic;
+  flex: 1;
 }
 
 .client-info {
   display: flex;
   align-items: center;
-  margin-top: 20px;
+  margin-left: 15px;
 }
 
 .client-info img {
@@ -104,37 +114,16 @@ author_profile: true
   color: #777;
 }
 
-/* Navigation buttons */
-.nav-btns {
-  position: absolute;
-  top: 50%;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  transform: translateY(-50%);
+/* Add some animation for auto-sliding */
+@keyframes slide {
+  0% { transform: translateX(0); }
+  33% { transform: translateX(-100%); }
+  66% { transform: translateX(-200%); }
+  100% { transform: translateX(0); }
 }
 
-.nav-btns .prev, .nav-btns .next {
-  background: #007BFF;
-  border: none;
-  padding: 10px 15px;
-  color: white;
-  cursor: pointer;
-  font-size: 18px;
-  border-radius: 5px;
-}
-
-.nav-btns .prev:hover, .nav-btns .next:hover {
-  background: #0056b3;
-}
-
-/* Slider effect */
 .testimonial-slider {
-  width: 300%;
-}
-
-.testimonial-box {
-  width: 33.33%;
+  animation: slide 10s infinite;
 }
 </style>
 
@@ -184,44 +173,4 @@ author_profile: true
       </div>
     </div>
   </div>
-
-  <!-- Navigation Buttons -->
-  <div class="nav-btns">
-    <button class="prev" onclick="prevSlide()">❮</button>
-    <button class="next" onclick="nextSlide()">❯</button>
-  </div>
 </div>
-
-<!-- Image Upload Feature -->
-<div style="margin-top: 20px; text-align: center;">
-  <label for="imageUpload">Upload Recommendation Image:</label>
-  <input type="file" id="imageUpload" accept="image/*">
-</div>
-
-<!-- JavaScript for Slider Effect -->
-<script>
-let currentSlide = 0;
-
-function showSlide(index) {
-  const slider = document.querySelector('.testimonial-slider');
-  const totalSlides = document.querySelectorAll('.testimonial-box').length;
-  if (index >= totalSlides) {
-    currentSlide = 0;
-  } else if (index < 0) {
-    currentSlide = totalSlides - 1;
-  } else {
-    currentSlide = index;
-  }
-  slider.style.transform = `translateX(-${currentSlide * 100 / totalSlides}%)`;
-}
-
-function nextSlide() {
-  showSlide(currentSlide + 1);
-}
-
-function prevSlide() {
-  showSlide(currentSlide - 1);
-}
-</script>
-
-
