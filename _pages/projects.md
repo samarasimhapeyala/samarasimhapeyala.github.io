@@ -2,12 +2,9 @@
 permalink: /projects/
 author_profile: true
 ---
-<p style="font-size: 14px;"> All my research articles including preprints and publications can be found in my <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Google Scholar</a> profile.</p><br>
-
 <div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6;">
 
-  <h1 class="page__title"></h1>
-  <p>I have listed out only a few academic and internship projects</p>
+  <p style="font-size: 15px;">I have listed out only a few academic and internship projects</p>
 
   <h1 id="education"><strong>Academic and Internship Projects</strong></h1>
 
@@ -15,7 +12,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro1.png" width="200px" height="200px" />
+          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro1.png" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -33,7 +30,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro2.jpg" width="200px" height="200px" />
+          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro2.jpg" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -51,7 +48,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro3.jpeg" width="200px" height="200px" />
+          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro3.jpeg" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -69,7 +66,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro4.png" width="200px" height="200px" />
+          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro4.png" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -87,7 +84,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro5.jpg" width="200px" height="200px" />
+          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro5.jpg" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -105,7 +102,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro6.gif" width="200px" height="200px" />
+          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro6.gif" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -123,7 +120,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro7.jpg" width="200px" height="200px" />
+          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro7.jpg" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -141,7 +138,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro9.png" width="200px" height="200px" />
+          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro9.png" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -159,7 +156,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro8.png" width="200px" height="200px" />
+          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro8.png" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
