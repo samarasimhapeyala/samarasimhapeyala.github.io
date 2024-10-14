@@ -87,7 +87,7 @@ redirect_from:
         <br>
         <ul>
             <li><strong>Courses:</strong> Mathematics, Statistical Modelling, Artificial Intelligence, Deep Neural Networks, DRL, Natural Language Processing, Computer Vision, ML System Optimization</li>
-            <li>Working along with full-time job using BITS Pilani Work Integrated Learning Programmes.</li>
+            <li>Pursuing Masters along with full-time job through BITS Pilani Work Integrated Learning Programmes.</li>
         </ul>
     </li>
     
