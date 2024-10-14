@@ -6,7 +6,7 @@ author_profile: true
 
   <p style="font-size: 15px;">I have listed out only a few academic and internship projects.</p>
 
-  <h2 id="education"><strong>Academic and Internship Projects</strong></h2>
+  <h1 id="education"><strong>Academic and Internship Projects</strong></h1>
 
   <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
     <tbody>
