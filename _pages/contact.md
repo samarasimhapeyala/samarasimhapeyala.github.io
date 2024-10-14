@@ -2,14 +2,7 @@
 permalink: /contact/
 author_profile: true
 ---
-  <div class="archive">
-    <head>
-      <style>
-          .archive {
-              font-size: 15px; /* Change this value to increase or decrease font size */
-          }
-      </style>
-  </head>
+
 <div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6;">
 
 <p style="font-size: 15px;">If you feel connecting with me, click here to send a quick message</p>
