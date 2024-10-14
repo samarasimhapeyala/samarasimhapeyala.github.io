@@ -7,7 +7,7 @@ author_profile: true
       
 
 <section class="page__content" itemprop="text">
-    <p style="font-size: 14px; color: #1B1212">Throughout my journey, I’ve been honored to receive recognition for efforts. While these accolades reflect my dedication and passion. I’m more interested in participating in competitions and showcasing my skillset, as the true reward lies in my ongoing pursuit of learning, innovation and improvement!</p>
+    <p style="font-size: 15px; color: #1B1212">Throughout my journey, I’ve been honored to receive recognition for efforts. While these accolades reflect my dedication and passion. I’m more interested in participating in competitions and showcasing my skillset, as the true reward lies in my ongoing pursuit of learning, innovation and improvement!</p>
 
 <div class="talk-container">
 <div class="talk-item" style="color: #1B1212;">
@@ -138,9 +138,6 @@ font-size: 14px;
 }
 </style>
 
-
       
-    </section>
+</section>
 
-  </div>
-</div>
