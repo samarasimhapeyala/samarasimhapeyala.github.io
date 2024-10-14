@@ -6,48 +6,59 @@ author_profile: true
 
 <p style="font-size: 15px;">I am always eager to take initiatives and contribute positively, harnessing technology and innovation to give back to my nation. I firmly believe that true success lies in empowering others and uplifting communities through collaboration and shared knowledge.</p>
     
-  <style>
-        .talk-item {
-            color: #1B1212;
-            border: 1px solid #ddd;
-            border-radius: 10px;
-            padding: 10px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            transition: box-shadow 0.3s ease; /* Smooth transition for shadow */
-        }
-    
-        .talk-item:hover {
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Shadow effect on hover */
-        }
-    
-        .talk-image {
-            width: 450px;
-            height: auto;
-            border-radius: 8px;
-        }
-        .talk-image1 {
-            width: 315px;
-            height: auto;
-            border-radius: 8px;
-        }
-    </style>
-   
-  <div class="talk-container">
-        <div class="talk-item">
-            <img src="../images/g3.jpg" alt="Talk 1" class="talk-image" />
-            <img src="../images/g8.png" alt="Talk 2" class="talk-image" />
-        </div>
-        <div class="talk-item">
-          <img src="../images/g4.png" alt="Talk 1" class="talk-image1" />
-          <img src="../images/g55.jpg" alt="Talk 2" class="talk-image1" />
-          <img src="../images/n.JPG" alt="Talk 2" class="talk-image1" />
-      </div>
+<style>
+    .talk-container {
+        display: flex;
+        flex-direction: column; /* Stacks items vertically */
+        gap: 20px; /* Space between talk items */
+    }
+
+    .talk-item {
+        color: #1B1212;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        transition: box-shadow 0.3s ease; /* Smooth transition for shadow */
+        flex-wrap: wrap; /* Allow images to wrap */
+    }
+
+    .talk-item:hover {
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Shadow effect on hover */
+    }
+
+    .talk-image, .talk-image1 {
+        height: auto;
+        border-radius: 8px;
+        max-width: 100%; /* Allow images to scale down responsively */
+    }
+
+    .talk-image {
+        width: 450px; /* Can keep or remove based on your layout needs */
+    }
+
+    .talk-image1 {
+        width: 315px; /* Can keep or remove based on your layout needs */
+    }
+</style>
+
+<div class="talk-container">
+    <div class="talk-item">
+        <img src="../images/g3.jpg" alt="Talk 1" class="talk-image" />
+        <img src="../images/g8.png" alt="Talk 2" class="talk-image" />
     </div>
-    <br>
+    <div class="talk-item">
+        <img src="../images/g4.png" alt="Talk 1" class="talk-image1" />
+        <img src="../images/g55.jpg" alt="Talk 2" class="talk-image1" />
+        <img src="../images/n.JPG" alt="Talk 2" class="talk-image1" />
+    </div>
+</div>
+<br>
+
     
-<h1 id="volunteer-experience" style="font-size: 15px;">Volunteer Experience</h1>
+<h1 id="volunteer-experience">Volunteer Experience</h1>
 <ul style="font-size: 15px;">
   <li>
     <strong>Program Lead</strong> in <a href="https://konamfoundation.org/" style="color: rgb(16, 158, 176); text-decoration: none;">KONAM Foundation</a><em> (Aug 2023 - Present)</em><br>
@@ -82,8 +93,8 @@ author_profile: true
     </ul>
   </li>
 </ul>
-
-<h1 id="positions-of-responsibility" style="font-size: 15px;">Positions of Responsibility</h1>
+<br>
+<h1 id="positions-of-responsibility">Positions of Responsibility</h1>
 <ul style="font-size: 15px;">
   <li>
     <strong>External Secretary</strong> in RGUKT RK Valley Alumni Association <a href="https://alumni.rguktrkv.ac.in/" style="color: rgb(16, 158, 176); text-decoration: none;">(RGURAA)</a><em> (Aug 2023 - Present)</em><br>
