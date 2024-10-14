@@ -2,16 +2,9 @@
 permalink: /community/
 author_profile: true
 ---
-  <div class="archive">
-    <head>
-      <style>
-          .archive {
-              font-size: 15px; /* Change this value to increase or decrease font size */
-          }
-      </style>
-  </head>
-      <h1 class="page__title"></h1>
-      <p>I am always eager to take initiatives and contribute positively, harnessing technology and innovation to give back to my nation. I firmly believe that true success lies in empowering others and uplifting communities through collaboration and shared knowledge.</p>
+
+<h1 class="page__title"></h1>
+<p style="font-size: 15px;">I am always eager to take initiatives and contribute positively, harnessing technology and innovation to give back to my nation. I firmly believe that true success lies in empowering others and uplifting communities through collaboration and shared knowledge.</p>
     
   <style>
         .talk-item {
