@@ -75,7 +75,7 @@ redirect_from:
 
 <div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6;">
 
-  <p>You can download my <a href="https://www.bits-pilani.ac.in/" style="color: rgb(16, 158, 176); text-decoration: none;">CV/ Resume</a> here</p>
+  <p style="font-size: 15px;">You can download my <a href="https://www.bits-pilani.ac.in/" style="color: rgb(16, 158, 176); text-decoration: none;">CV/ Resume</a> here</p>
 
 <h1 id="education">Education</h1>
 
