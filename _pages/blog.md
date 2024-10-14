@@ -49,3 +49,179 @@ author_profile: true
     </div>
 </div>
 
+<!-- Include CSS styles for testimonials/recommendations -->
+<style>
+.testimonials {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  padding: 50px 0;
+  background: #f9f9f9;
+}
+
+.testimonial-container {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.testimonial-box {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  background: white;
+  margin: 0 15px;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+  border-radius: 10px;
+}
+
+.testimonial-content {
+  font-size: 16px;
+  color: #444;
+  font-style: italic;
+}
+
+.client-info {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.client-info img {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin-right: 15px;
+}
+
+.client-info .client-name {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+
+.client-info .client-title {
+  font-size: 14px;
+  color: #777;
+}
+
+/* Navigation buttons */
+.nav-btns {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+
+.nav-btns .prev, .nav-btns .next {
+  background: #007BFF;
+  border: none;
+  padding: 10px 15px;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.nav-btns .prev:hover, .nav-btns .next:hover {
+  background: #0056b3;
+}
+
+/* Slider effect */
+.testimonial-slider {
+  width: 300%;
+}
+
+.testimonial-box {
+  width: 33.33%;
+}
+</style>
+
+<!-- HTML structure for Recommendations -->
+<div class="testimonials">
+  <h2 style="text-align: center;">Recommendations</h2>
+  <div class="testimonial-container">
+    <div class="testimonial-slider">
+      <!-- First recommendation -->
+      <div class="testimonial-box">
+        <div class="testimonial-content">
+          "Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid malis quorum velit fore eram velit sunt aliqua noster."
+        </div>
+        <div class="client-info">
+          <img src="client1.jpg" alt="Sara Willsson">
+          <div>
+            <div class="client-name">Sara Willsson</div>
+            <div class="client-title">Designer</div>
+          </div>
+        </div>
+      </div>
+      <!-- Second recommendation -->
+      <div class="testimonial-box">
+        <div class="testimonial-content">
+          "Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute."
+        </div>
+        <div class="client-info">
+          <img src="client2.jpg" alt="Jena Karlis">
+          <div>
+            <div class="client-name">Jena Karlis</div>
+            <div class="client-title">Store Owner</div>
+          </div>
+        </div>
+      </div>
+      <!-- Third recommendation -->
+      <div class="testimonial-box">
+        <div class="testimonial-content">
+          "Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat dolor enim duis veniam ipsum anim magna sunt elit fore."
+        </div>
+        <div class="client-info">
+          <img src="client3.jpg" alt="Matt Brandon">
+          <div>
+            <div class="client-name">Matt Brandon</div>
+            <div class="client-title">Freelancer</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Navigation Buttons -->
+  <div class="nav-btns">
+    <button class="prev" onclick="prevSlide()">❮</button>
+    <button class="next" onclick="nextSlide()">❯</button>
+  </div>
+</div>
+
+<!-- Image Upload Feature -->
+<div style="margin-top: 20px; text-align: center;">
+  <label for="imageUpload">Upload Recommendation Image:</label>
+  <input type="file" id="imageUpload" accept="image/*">
+</div>
+
+<!-- JavaScript for Slider Effect -->
+<script>
+let currentSlide = 0;
+
+function showSlide(index) {
+  const slider = document.querySelector('.testimonial-slider');
+  const totalSlides = document.querySelectorAll('.testimonial-box').length;
+  if (index >= totalSlides) {
+    currentSlide = 0;
+  } else if (index < 0) {
+    currentSlide = totalSlides - 1;
+  } else {
+    currentSlide = index;
+  }
+  slider.style.transform = `translateX(-${currentSlide * 100 / totalSlides}%)`;
+}
+
+function nextSlide() {
+  showSlide(currentSlide + 1);
+}
+
+function prevSlide() {
+  showSlide(currentSlide - 1);
+}
+</script>
+
+
