@@ -3,15 +3,7 @@ permalink: /blog/
 author_profile: true
 ---
 
-  <div class="archive">
-    <head>
-      <style>
-          .archive {
-              font-size: 15px; /* Change this value to increase or decrease font size */
-          }
-      </style>
-  </head>
-    
+ 
   <h1 class="page__title">Blog posts</h1>
   
   
