@@ -4,7 +4,7 @@ author_profile: true
 ---
 <div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6;">
 
-  <p style="font-size: 15px;">I have listed out only a few academic and internship projects</p>
+  <p style="font-size: 15px;">I have listed out only a few academic and internship projects.</p>
 
   <h1 id="education"><strong>Academic and Internship Projects</strong></h1>
 
@@ -12,7 +12,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro1.png" width="200px" height="200px" />
+          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro1.png" width="200px" height="150px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
