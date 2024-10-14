@@ -40,7 +40,7 @@ author_profile: true
     <div class="list__item" style="width: 100%; padding: 0;">
         <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="margin: 10px 0; padding: 0;">
             <h2 class="archive__item-title" itemprop="headline">
-                <a href="https://medium.com/@samarasimhapeyala/introduction-to-artificial-intelligence-ai-c3c4acf9f9b3" rel="permalink" tyle="color: rgb(16, 158, 176);  text-decoration: none;">Introduction to Artificial Intelligence (AI)</a>
+                <a href="https://medium.com/@samarasimhapeyala/introduction-to-artificial-intelligence-ai-c3c4acf9f9b3" rel="permalink" style="color: rgb(16, 158, 176);  text-decoration: none;">Introduction to Artificial Intelligence (AI)</a>
             </h2>
             <p class="page__meta" style="font-size: 15px; margin: 5px 0;"><i class="fa fa-clock-o" aria-hidden="true"></i> less than 5 minute read</p>
             <p class="page__date" style="font-size: 15px; margin: 5px 0;"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2015-08-14T00:00:00+00:00">May, 2020</time></p>
