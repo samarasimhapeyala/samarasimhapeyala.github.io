@@ -2,7 +2,9 @@
 permalink: /blog/
 author_profile: true
 ---
+<div class="content-container">
 
+<div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6;">
 <h1 class="page__title" style="font-size: 15px;">Blog posts</h1>
 <h2 id="2199" class="archive__subtitle" style="font-size: 15px;"></h2>
 <div class="list__item">
