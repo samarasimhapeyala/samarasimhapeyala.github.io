@@ -3,11 +3,11 @@ permalink: /contact/
 author_profile: true
 ---
 
-<div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6;">
+<div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6; font-size: 15px;">
 
-<p style="font-size: 15px;">If you feel connecting with me, click here to send a quick message</p>
+<p>If you feel connecting with me, click here to send a quick message</p>
     
-  <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+<div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
     <form action="https://formspree.io/mbjzdajy" method="post" role="form" style="border: 2px solid #2985d8; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
       <h3 class="text-center" style="color: #2985d8;">📩 Contact Me</h3>
       <div class="row">
@@ -34,5 +34,6 @@ author_profile: true
         </button>
       </div>
     </form>
-  </div>
-      
+</div>
+
+</div>
