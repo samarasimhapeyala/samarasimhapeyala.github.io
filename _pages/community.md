@@ -92,6 +92,12 @@ author_profile: true
       <li>As a secretary member to bring 10,000+ RKValley alumni together onto a single platform and strive for the overall development of the institute, current and passed-out students.</li>
     </ul>
   </li>
+<li>
+    <strong>Undergraduate Researcer</strong> in <a href="[https://www.linkedin.com/company/career-development-and-placement-cell-cdpc-rgukt-rk-valley](https://www.linkedin.com/school/roboticsrkv/)" style="color: rgb(16, 158, 176); text-decoration: none;">Robotics Lab of RKV</a><em> (2018 - 2022)</em><br>
+    <ul>
+      <li>Here where I had great exposure to the research, especially in the field of AI and IoT. We have actively engaged in building the technical projects, participating in tech events. Organised the workshops for the juniors, involved in managing the technical activities inside the institue</li>
+    </ul>
+  </li>
   <li>
     <strong>Student Coordinator</strong> in <a href="https://www.linkedin.com/company/career-development-and-placement-cell-cdpc-rgukt-rk-valley" style="color: rgb(16, 158, 176); text-decoration: none;">Career Development & Placement Cell</a><em> (2020 - 2022)</em><br>
     <ul>
