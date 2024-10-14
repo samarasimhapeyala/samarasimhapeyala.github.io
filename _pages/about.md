@@ -71,6 +71,7 @@ redirect_from:
 
 
 <div class="content-container">
+  <h1>Bio</h1>
   <p style="font-size: 14px;">I am currently working as Machine Learning Engineer at <a href="https://www.hitloop.it/"> Hitloop</a>, building Multimodal Multilingual Multitask AI Systems. I'm focused on exploring computer vision applications, including face synthesis and lip regeneration using generative AI. Additionally, I work on speech technologies, developing Text-to-Speech (TTS) systems and Automatic Speech Recognition (ASR) models, along with NLP models for translation systems. I am pursuing an M.Tech in AIML (2023-25) at BITS Pilani WILP, balancing my studies with my professional role.</p>
 
 <div style="display: flex; justify-content: space-between;">
