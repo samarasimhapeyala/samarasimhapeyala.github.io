@@ -4,166 +4,174 @@ author_profile: true
 ---
 <p style="font-size: 14px;"> All my research articles including preprints and publications can be found in my <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Google Scholar</a> profile.</p><br>
 
-<strong>Preprints</strong> <br>
-<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
-<tbody>
-<tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
-    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/MTMS_Seg.png" width="200px" height="200px"> 
-  </td>
-  <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
-    <p>
-      Risab Biswas, Chaitanya Kaul <br> 
-      <strong>Multi-Task Multi-Scale Contrastive Knowledge Distillation for Efficient Medical Image Segmentation</strong> <br>
-      <i> Preprint, Arxiv, 2024 
-      <a href="https://arxiv.org/pdf/2406.03173" style="color: #2985d8; text-decoration: none;"> [Paper] </a> 
-      <a href="https://github.com/RisabBiswas/MTMS-Med-Seg-KD" style="color: #2985d8; text-decoration: none;"> [Code] </a>
-      </i>  
-    </p> 
-  </td>
-</tr>
-</tbody>
-</table>
+<div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6;">
 
-<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
-<tbody>
-<tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
-    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/DocBinFormer_2.png" width="200px" height="200px"> 
-  </td>
-  <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
-    <p>
-      Risab Biswas, Swalpa Kumar Roy, Ning Wang, Umapada Pal, Guang-Bin Huang<br> 
-      <strong>DocBinFormer: A Two-Level Transformer Network for Effective Document Image Binarization</strong> <br>
-      <i> In Arxiv, Under Review in IEEE Transactions on Artificial Intelligence, 2023 
-      <a href="https://arxiv.org/abs/2312.03568" style="color: #2985d8; text-decoration: none;"> [Paper] </a> 
-      <a href="https://github.com/RisabBiswas/DocBinFormer" style="color: #2985d8; text-decoration: none;"> [Code] </a>
-      </i>  
-    </p> 
-  </td>
-</tr>
-</tbody>
-</table>
+  <h1 class="page__title"></h1>
+  <p>I have listed out only a few academic and internship projects</p>
 
-<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
-<tbody>
-<tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
-    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/Arch_Polyp-SAM++.png" width="200px" height="150px"> 
-  </td>
-  <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
-    <p>
-      Risab Biswas<br> 
-      <strong>Polyp-SAM++: Can A Text Guided SAM PerformBetter for Polyp Segmentation?</strong> <br>
-      <i> Preprint, Arxiv, 2023 
-      <a href="https://arxiv.org/pdf/2308.06623" style="color: #2985d8; text-decoration: none;"> [Paper] </a> 
-      <a href="https://github.com/RisabBiswas/Polyp-SAM-PlusPlus" style="color: #2985d8; text-decoration: none;"> [Code] </a>
-      </i>  
-    </p> 
-  </td>
-</tr>
-</tbody>
-</table>
+  <h1 id="education"><strong>Academic and Internship Projects</strong></h1>
 
-<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
-<tbody>
-<tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
-    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/T2T-BinFormer.png" width="200px" height="150px"> 
-  </td>
-  <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
-    <p>
-      Risab Biswas, Swalpa Kumar Roy, Umapada Pal<br> 
-      <strong>A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement</strong> <br>
-      <i> Preprint, Arxiv, 2023 
-      <a href="https://arxiv.org/abs/2312.03946" style="color: #2985d8; text-decoration: none;"> [Paper] </a> 
-      <a href="https://github.com/RisabBiswas/T2T-BinFormer" style="color: #2985d8; text-decoration: none;"> [Code] </a>
-      </i>  
-    </p> 
-  </td>
-</tr>
-</tbody>
-</table>
+  <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
+    <tbody>
+      <tr>
+        <td style="width:200px; height:200px; vertical-align: top; border: none;">
+          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro1.png" width="200px" height="200px" />
+        </td>
+        <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
+          <p>
+            Samarasimha Reddy <br />
+            <strong>Blind Face Restoration and Image Enhancement</strong> <br />
+            <i>Apr, 2022 <a href="https://github.com/samarasimhapeyala" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Trained the GFP-GAN on the FFHQ dataset, generating color images from black and white and enhancing old images into high resolution.</i>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-<strong>Publications</strong> <br>
+  <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
+    <tbody>
+      <tr>
+        <td style="width:200px; height:200px; vertical-align: top; border: none;">
+          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro2.jpg" width="200px" height="200px" />
+        </td>
+        <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
+          <p>
+            Samarasimha Reddy <br />
+            <strong>Evaluating LMU with Attention LSTM Models on Time Series Data</strong> <br />
+            <i>July, 2021 <a href="https://github.com/samarasimhapeyala" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Implemented LMU Models on timeseries data and evaluated them with attention LSTM models during my Research Internship at IIT Guwahati.</i>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
-<tbody>
-<tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
-    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/ICVGIP.png" width="200px" height="200px"> 
-  </td>
-  <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
-    <p>
-      Risab Biswas, Soumik Sarkhel, Swalpa Kumar Roy, Umapada Pal <br> 
-      <strong>TransDocUNet: A Transformer-based UNet Architecture for Degraded Document Image Binarization</strong> <br>
-      <i> Proceedings of the Fourteenth Indian Conference on Computer Vision, Graphics and Image Processing, 2023 
-      <a href="https://dl.acm.org/doi/abs/10.1145/3627631.3627639" style="color: #2985d8; text-decoration: none;"> [Paper] </a> 
-      <a href="https://github.com/RisabBiswas/TransDocUNet" style="color: #2985d8; text-decoration: none;"> [Code] </a>
-      </i>  
-    </p> 
-  </td>
-</tr>
-</tbody>
-</table>
+  <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
+    <tbody>
+      <tr>
+        <td style="width:200px; height:200px; vertical-align: top; border: none;">
+          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro3.jpeg" width="200px" height="200px" />
+        </td>
+        <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
+          <p>
+            Samarasimha Reddy, Manikanta Sannidi <br />
+            <strong>Face Recognition Based Attendance System</strong> <br />
+            <i>Jan, 2021 <a href="https://github.com/samarasimhapeyala/Face-Recognition-Based-Attendance-App" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Uses face recognition with Deep Learning and OpenCV to automatically mark attendance based on images captured.</i>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
-<tbody>
-<tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
-    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/Plant_Disease_2.png" width="200px" height="200px"> 
-  </td>
-  <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
-    <p>
-      Risab Biswas, Avirup Basu, Abhishek Nandy, Arkaprova Deb, Roshni Chowdhury, Debashree Chanda <br> 
-      <strong>Identification of Pathological Disease in Plants using Deep Neural Networks</strong> <br>
-      <i> Indo–Taiwan 2nd International Conference on Computing, Analytics and Networks (Indo-Taiwan ICAN), 2020 
-      <a href="https://ieeexplore.ieee.org/abstract/document/9181339" style="color: #2985d8; text-decoration: none;"> [Paper] </a> 
-      <a href="https://www.researchgate.net/publication/344057486_Identification_of_Pathological_Disease_in_Plants_using_Deep_Neural_Networks_-_Powered_by_IntelR_Distribution_of_OpenVINO_Toolkit" style="color: #2985d8; text-decoration: none;"> [PDF] </a>
-      </i>  
-    </p> 
-  </td>
-</tr>
-</tbody>
-</table>
+  <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
+    <tbody>
+      <tr>
+        <td style="width:200px; height:200px; vertical-align: top; border: none;">
+          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro4.png" width="200px" height="200px" />
+        </td>
+        <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
+          <p>
+            Samarasimha Reddy <br />
+            <strong>Life Expectancy Predictor</strong> <br />
+            <i>Jul, 2020 <a href="https://github.com/samarasimhapeyala/llSPS-INT-1983-Predicting-Life-Expectancy-using-Machine-Learning" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Predicts life expectancy based on user input using extra tree regression, deployed on IBM Cloud.</i>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
-<tbody>
-<tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
-    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/Drug Discovery_2.png" width="200px" height="200px"> 
-  </td>
-  <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
-    <p>
-      Risab Biswas, Avirup Basu, Abhishek Nandy, Arkaprova Deb, Kazi Haque, Debashree Chanda <br> 
-      <strong>Drug Discovery and Drug Identification using AI</strong> <br>
-      <i> Indo–Taiwan 2nd International Conference on Computing, Analytics and Networks (Indo-Taiwan ICAN), 2020 
-      <a href="https://ieeexplore.ieee.org/abstract/document/9181309/" style="color: #2985d8; text-decoration: none;"> [Paper] </a> 
-      <a href="https://www.researchgate.net/publication/344063648_Drug_Discovery_and_Drug_Identification_using_AI" style="color: #2985d8; text-decoration: none;"> [PDF] </a>
-      </i>  
-    </p> 
-  </td>
-</tr>
-</tbody>
-</table>
+  <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
+    <tbody>
+      <tr>
+        <td style="width:200px; height:200px; vertical-align: top; border: none;">
+          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro5.jpg" width="200px" height="200px" />
+        </td>
+        <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
+          <p>
+            Samarasimha Reddy, Rohit Singh, Avinash, Charupriya S <br />
+            <strong>Movie Recommendation System</strong> <br />
+            <i>Jul, 2020 <a href="https://github.com/samarasimhapeyala" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Predicts movies based on user preferences using machine learning algorithms.</i>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
-<tbody>
-<tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
-    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/Home_Automation.png" width="200px" height="200px"> 
-  </td>
-  <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
-    <p>
-      Avirup Basu, Abhishek Nandy, Manisha Biswas, Raja Nand Sharma, Risab Biswas <br> 
-      <strong>Home Automation Using Energy Usage</strong> <br>
-      <i> 6th Edition of International Conference on Wireless Networks & Embedded Systems (WECON), 2018 
-      <a href="https://ieeexplore.ieee.org/abstract/document/8782049" style="color: #2985d8; text-decoration: none;"> [Paper] </a> 
-      <a href="https://www.researchgate.net/profile/Risab-Biswas/publication/334854275_Home_Automation_Using_Energy_Usage/links/629fce1fc660ab61f86b4158/Home-Automation-Using-Energy-Usage.pdf" style="color: #2985d8; text-decoration: none;"> [PDF] </a>
-      </i>  
-    </p> 
-  </td>
-</tr>
-</tbody>
-</table>
+  <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
+    <tbody>
+      <tr>
+        <td style="width:200px; height:200px; vertical-align: top; border: none;">
+          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro6.gif" width="200px" height="200px" />
+        </td>
+        <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
+          <p>
+            Samarasimha Reddy <br />
+            <strong>Sentiment Analysis Model</strong> <br />
+            <i>Aug, 2020 <a href="https://github.com/samarasimhapeyala/Udacity-MLengineer-Nanodegree/tree/master/Deploy_a_sentiment_analysis_model" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Determines sentiment from movie reviews using recurrent neural networks.</i>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
+    <tbody>
+      <tr>
+        <td style="width:200px; height:200px; vertical-align: top; border: none;">
+          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro7.jpg" width="200px" height="200px" />
+        </td>
+        <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
+          <p>
+            Samarasimha Reddy <br />
+            <strong>Plagiarism Detector</strong> <br />
+            <i>Jul, 2020 <a href="https://github.com/samarasimhapeyala/Udacity-MLengineer-Nanodegree/tree/master/Project-2%3A%20Plagiarism_Detector" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Examines text files for plagiarism using sklearn, deployed on AWS Cloud.</i>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
+    <tbody>
+      <tr>
+        <td style="width:200px; height:200px; vertical-align: top; border: none;">
+          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro9.png" width="200px" height="200px" />
+        </td>
+        <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
+          <p>
+            Samarasimha Reddy <br />
+            <strong>Customer Churn Predictor</strong> <br />
+            <i>May, 2020 <a href="https://github.com/samarasimhapeyala/Machine-Learning-SummerTraining/tree/master/Final%20Project" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Analyzes complex data patterns to predict customer churn in banks, enabling tailored retention strategies.</i>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
+    <tbody>
+      <tr>
+        <td style="width:200px; height:200px; vertical-align: top; border: none;">
+          <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro8.png" width="200px" height="200px" />
+        </td>
+        <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
+          <p>
+            Samarasimha Reddy <br />
+            <strong>Voice Controlled Home Automation</strong> <br />
+            <i>Mar, 2019 <a href="https://github.com/samarasimhapeyala/Voice-Controlled-Home-automation" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Controls home devices using voice commands via IoT and NodeMCU.</i>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+
 
