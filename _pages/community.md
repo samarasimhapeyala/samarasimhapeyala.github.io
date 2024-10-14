@@ -6,56 +6,46 @@ author_profile: true
 
 <p style="font-size: 15px;">I am always eager to take initiatives and contribute positively, harnessing technology and innovation to give back to my nation. I firmly believe that true success lies in empowering others and uplifting communities through collaboration and shared knowledge.</p>
     
-<style>
-    .talk-container {
-        display: flex;
-        flex-direction: column; /* Stacks items vertically */
-        gap: 20px; /* Space between talk items */
-    }
-
-    .talk-item {
-        color: #1B1212;
-        border: 1px solid #ddd;
-        border-radius: 10px;
-        padding: 10px;
-        display: flex;
-        align-items: center;
-        gap: 10px;
-        transition: box-shadow 0.3s ease; /* Smooth transition for shadow */
-        flex-wrap: wrap; /* Allow images to wrap */
-    }
-
-    .talk-item:hover {
-        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Shadow effect on hover */
-    }
-
-    .talk-image, .talk-image1 {
-        height: auto;
-        border-radius: 8px;
-        max-width: 100%; /* Allow images to scale down responsively */
-    }
-
-    .talk-image {
-        width: 450px; /* Can keep or remove based on your layout needs */
-    }
-
-    .talk-image1 {
-        width: 315px; /* Can keep or remove based on your layout needs */
-    }
-</style>
-
-<div class="talk-container">
-    <div class="talk-item">
-        <img src="../images/g3.jpg" alt="Talk 1" class="talk-image" />
-        <img src="../images/g8.png" alt="Talk 2" class="talk-image" />
+  <style>
+        .talk-item {
+            color: #1B1212;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            transition: box-shadow 0.3s ease; /* Smooth transition for shadow */
+        }
+    
+        .talk-item:hover {
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Shadow effect on hover */
+        }
+    
+        .talk-image {
+            width: 350px;
+            height: auto;
+            border-radius: 8px;
+        }
+        .talk-image1 {
+            width: 255px;
+            height: auto;
+            border-radius: 8px;
+        }
+    </style>
+   
+  <div class="talk-container">
+        <div class="talk-item">
+            <img src="../images/g3.jpg" alt="Talk 1" class="talk-image" />
+            <img src="../images/g8.png" alt="Talk 2" class="talk-image" />
+        </div>
+        <div class="talk-item">
+          <img src="../images/g4.png" alt="Talk 1" class="talk-image1" />
+          <img src="../images/g55.jpg" alt="Talk 2" class="talk-image1" />
+          <img src="../images/n.JPG" alt="Talk 2" class="talk-image1" />
+      </div>
     </div>
-    <div class="talk-item">
-        <img src="../images/g4.png" alt="Talk 1" class="talk-image1" />
-        <img src="../images/g55.jpg" alt="Talk 2" class="talk-image1" />
-        <img src="../images/n.JPG" alt="Talk 2" class="talk-image1" />
-    </div>
-</div>
-<br>
+    <br>
 
     
 <h1 id="volunteer-experience">Volunteer Experience</h1>
