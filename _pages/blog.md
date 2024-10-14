@@ -2,10 +2,74 @@
 permalink: /blog/
 author_profile: true
 ---
+{% include base_path %}
+<style>
+.content-container {
+  font-size: 15px;
+  color: #1B1212;
+  line-height: 1.6;
+}
+.content-container a {
+  text-decoration: none;
+  color: #4040FF;
+}
+.content-container a:hover {
+  text-decoration: underline;
+}
+.logo-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+.logo-item {
+  text-align: center;
+  margin: 10px;
+}
+.logo-item img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+.logo-item p {
+  font-size: 14px;
+  color: #1B1212;
+}
+.updates-list {
+  list-style-type: none;
+  padding: 0;
+}
+.updates-list li {
+  margin: 10px 0;
+}
+.updates-list a {
+  color: #4040FF;
+  text-decoration: none;
+}
+.updates-list a:hover {
+  text-decoration: underline;
+}
+.updates-list, h3, p {
+  font-size: 14px;
+}
+</style>
+<style>
+.research-interest {
+  background-color: #f3f6f4; /* Light grey */
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease; /* Smooth transition for background color */
+}
+
+.research-interest:hover {
+  background-color: #d0d0d0; /* Deeper grey on hover */
+}
+</style>
+
 <div class="content-container">
 
 <div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6;">
-<h1 class="page__title" style="font-size: 15px;">Blog posts</h1>
+<h1 class="page__title">Blog posts</h1>
 <h2 id="2199" class="archive__subtitle" style="font-size: 15px;"></h2>
 <div class="list__item">
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
