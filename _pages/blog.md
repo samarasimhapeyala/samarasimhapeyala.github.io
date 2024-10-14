@@ -81,6 +81,12 @@ author_profile: true
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.testimonial-box:hover {
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+  transform: scale(1.02); /* Slightly enlarge the box */
 }
 
 .testimonial-content {
@@ -117,7 +123,7 @@ author_profile: true
 </style>
 
 <h1 style="text-align: center;">Recommendations</h1>
-
+<p style="font-size: 15px;">These are the recommendations recieved on Linkedin as we teamed up for the projects.</p>
 <div class="testimonials">
   <div class="testimonial-container">
     <div class="testimonial-slider" id="testimonialSlider">
@@ -162,8 +168,9 @@ author_profile: true
       </div>
     </div>
   </div>
+</div>
 
-  <script>
+<script>
 const slider = document.getElementById('testimonialSlider');
 const testimonials = document.querySelectorAll('.testimonial-box');
 let index = 0;
@@ -176,8 +183,5 @@ function slideTestimonials() {
 
 setInterval(slideTestimonials, 2000); // Change every 2 seconds
 </script>
-
-</div>
-
 
 
