@@ -82,7 +82,7 @@ redirect_from:
 <ul>
     <li>
         <strong><a href="https://www.bits-pilani.ac.in/" style="color: rgb(16, 158, 176); text-decoration: none;">Birla Institute of Technology And Science, Pilani (BITS Pilani)</a></strong>
-        <span style="float: right; font-style: italic;">Nov 2023 - Oct 2024</span><br>
+        <span style="float: right; font-style: italic;">Nov 2023 - Oct 2025</span><br>
         Master of Technology in Artificial Intelligence and Machine Learning<span style="float: right;"><strong>CGPA:</strong> 8.51/10</span>
         <br>
         <ul>
