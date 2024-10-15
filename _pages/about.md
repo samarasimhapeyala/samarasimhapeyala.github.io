@@ -85,7 +85,7 @@ redirect_from:
     <div style="height: 100px; display: flex; align-items: center; justify-content: center;">
       <img src="../images/bits.png" alt="Logo4" style="width: 100px; height: 100px;">
     </div>
-    <div style="font-size: 12px; color: #1B1212; margin-top: 10px;">M.Tech, Artificial Intelligence & ML, <a href="http://www.bits-pilani.ac.in/" style="color: #2985d8; text-decoration: none;">BITS Pilani</a>, India<br>Nov. 2023 - Oct. 2024</div>
+    <div style="font-size: 12px; color: #1B1212; margin-top: 10px;">M.Tech, Artificial Intelligence & ML, <a href="http://www.bits-pilani.ac.in/" style="color: #2985d8; text-decoration: none;">BITS Pilani</a>, India<br>Nov. 2023 - Oct. 2025</div>
   </div>
     <div style="flex: 1; text-align: center; margin: 10px;">
     <div style="height: 100px; display: flex; align-items: center; justify-content: center;">
