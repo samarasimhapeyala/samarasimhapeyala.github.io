@@ -187,6 +187,7 @@ redirect_from:
 <h1 id="workshops-conferences">Workshops/Competitions/Conferences</h1>
 <ul>
     <li>Attended <strong>India's biggest Gen AI Summit</strong> Machine Learning Developers Summit (MLDS2024) organized by <strong>AIM Analytics India Magazine</strong>, held in Bangalore</li>
+    <li>Attended 30-day<strong> 7th Summer School on AI with a focus on Computer Vision & Machine Learning,</strong> hosted by <strong>CVIT, IIIT Hyderabad</strong></li>
     <li>Attended <strong>International Online Conference</strong> on Emerging Trends in Healthcare Technology organized by <strong>IIT Kharagpur</strong></li>
     <li>Attended <strong>4-day International Conclave</strong> - Enhancing technology skills in Industry 4.0 by Black Bucks in 2020</li>
     <li>Participated in <strong>Technical Projects Expo</strong> in RGUKT 2nd, 3rd Convocations and Abhiyanth 2k17 and 2k19 tech fests</li>
