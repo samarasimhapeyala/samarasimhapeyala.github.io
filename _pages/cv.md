@@ -83,7 +83,7 @@ redirect_from:
     <li>
         <strong><a href="https://www.bits-pilani.ac.in/" style="color: rgb(16, 158, 176); text-decoration: none;">Birla Institute of Technology And Science, Pilani (BITS Pilani)</a></strong>
         <span style="float: right; font-style: italic;">Nov 2023 - Oct 2025</span><br>
-        Master of Technology in Artificial Intelligence and Machine Learning<span style="float: right;"><strong>CGPA:</strong> 8.51/10</span>
+        Master of Technology in Artificial Intelligence and Machine Learning<span style="float: right;"><strong>CGPA:</strong> 9.0/10 (2 Sems)</span>
         <br>
         <ul>
             <li><strong>Courses:</strong> Mathematics, Statistical Modelling, Artificial Intelligence, Deep Neural Networks, DRL, Natural Language Processing, Computer Vision, ML System Optimization</li>
