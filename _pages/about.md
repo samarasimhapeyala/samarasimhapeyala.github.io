@@ -125,5 +125,5 @@ redirect_from:
 </div><br>
 
 <div style="width: 100%; max-width: 150px; margin-left: 0;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=a7O3t_uApRAnWYL9dShmlAqfC9SZujQlv0LSpj-KyFI"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=a7O3t_uApRAnWYL9dShmlAqfC9SZujQlv0LSpj-KyFI"></script>
 </div>
