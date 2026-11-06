@@ -54,7 +54,7 @@ redirect_from:
 .updates-list a:hover {
   text-decoration: underline;
 }
-.updates-list, h3, p {
+.updates-list, .content-container h3, .content-container p {
   font-size: 14px;
 }
 </style>
@@ -114,8 +114,14 @@ redirect_from:
 <h1 id="work-experience">Work Experience</h1>
 <ul>
     <li>
+        <strong><a href="https://winter.inc/" style="color: rgb(16, 158, 176); text-decoration: none;">Winter</a></strong>
+        <span style="float: right; font-style: italic;">Jun 2025 - Present</span><br>
+        AI Engineer <span style="float: right;">India</span><br>
+    </li>
+
+    <li>
         <strong><a href="https://www.hitloop.it/" style="color: rgb(16, 158, 176); text-decoration: none;">Hitloop</a></strong>
-        <span style="float: right; font-style: italic;">Apr 2023 - Present</span><br>
+        <span style="float: right; font-style: italic;">Apr 2023 - May 2025</span><br>
         Machine Learning Engineer <span style="float: right;">Hyderabad, India</span><br>
         <ul>
             <li>Researching and working on Artificial Intelligence/ML research, solving complex real-world problems with AI.</li>

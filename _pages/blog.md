@@ -133,7 +133,7 @@ author_profile: true
           "Samarasimha is very responsible towards his work in the team, he is someone team can always rely on to get the task done. He is highly spirited and completely friendly with other members of the team. I wish him good luck in his future professional life."
         </div>
         <div class="client-info">
-          <!--<img src="client1.jpg" alt="Sara Willsson">-->
+          <!--<img loading="lazy" decoding="async" src="client1.jpg" alt="Sara Willsson">-->
           <div>
             <div class="client-name"><a href="https://www.linkedin.com/in/rohitsinghonline/" style="color: rgb(16, 158, 176); text-decoration: none;">Rohit Singh</a></div>
             <div class="client-title">Azure Data Engineer</div>
@@ -146,7 +146,7 @@ author_profile: true
           "Samar has a very good knowledge in core machine learning concepts and he is highly skilled at implementing ML algorithms. Samar is a charismatic person and he fills energy in people around him. He always puts an effort to make everyone around him accomplish more than what they are usually capable of. It was a great pleasure working with him and I wish all the best for his future endeavours."
         </div>
         <div class="client-info">
-          <!--<img src="client2.jpg" alt="Jena Karlis">-->
+          <!--<img loading="lazy" decoding="async" src="client2.jpg" alt="Jena Karlis">-->
           <div>
             <div class="client-name"><a href="https://www.linkedin.com/in/avinash-gundabathina-10846b140/" style="color: rgb(16, 158, 176); text-decoration: none;">Avinash Gundabathina</a></div>
             <div class="client-title">Senior Engineer</div>
@@ -159,7 +159,7 @@ author_profile: true
           "I am excited to work with Samar. He is a most practical worker and such an amazing co-worker in team. Apart from good data science and project implementation skills, he guided a team in a proper manner at a right time and most supportive member in team."
         </div>
         <div class="client-info">
-          <!--<img src="client3.jpg" alt="Matt Brandon">-->
+          <!--<img loading="lazy" decoding="async" src="client3.jpg" alt="Matt Brandon">-->
           <div>
             <div class="client-name"><a href="https://www.linkedin.com/in/charupriya-s-b37504190/" style="color: rgb(16, 158, 176); text-decoration: none;">Charupriya S</a></div>
             <div class="client-title">Software Engineer</div>

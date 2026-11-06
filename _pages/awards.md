@@ -11,7 +11,7 @@ author_profile: true
 
 <div class="talk-container">
 <div class="talk-item" style="color: #1B1212;">
-<img src="../images/forsys1.jpeg" alt="Talk 1" class="talk-image" />
+<img loading="lazy" decoding="async" src="/images/forsys1.jpeg" alt="Talk 1" class="talk-image" />
 <div class="talk-details">
   <h3>Pinnacle Performer Award, Forsys 2023</h3>
   <p>I was honored to receive the “Pinnacle Performer Award” for my efforts and innovation in work during my time at Forsys. This recognition was awarded at the Forsys annual event, Udaan 2023, Hyderabad.
@@ -20,7 +20,7 @@ author_profile: true
 </div>
 
 <div class="talk-item" style="color: #1B1212;">
-<img src="../images/careers360.jpg" alt="Talk 1" class="talk-image" />
+<img loading="lazy" decoding="async" src="/images/careers360.jpg" alt="Talk 1" class="talk-image" />
 <div class="talk-details">
   <h3>Runner-Up, Careers360 Best Campus Ambassador, 2020</h3>
   <p>Secured 2nd Position in Careers360 Hunt for Best Campus Ambassador 2020 among 1000+ Campus Ambassadors in India.
@@ -29,7 +29,7 @@ author_profile: true
 </div>
 
 <div class="talk-item" style="color: #1B1212;">
-<img src="../images/g2.png" alt="Talk 1" class="talk-image" />
+<img loading="lazy" decoding="async" src="/images/g2.png" alt="Talk 1" class="talk-image" />
 <div class="talk-details">
   <h3>Second Position in Debate Competition, 2020</h3>
   <p>Secured 2nd Position in Debate Competition in National Science Day Events 2020 - RGUKT RK Valley.
@@ -38,7 +38,7 @@ author_profile: true
 </div>
 
 <div class="talk-item" style="color: #1B1212;">
-<img src="../images/g7.jpg" alt="Talk 1" class="talk-image" />
+<img loading="lazy" decoding="async" src="/images/g7.jpg" alt="Talk 1" class="talk-image" />
 <div class="talk-details">
   <h3>First Position in Presentation competition in Abhiyanth 2K19</h3>
   <p>Secured 1st Position in Power Point Presentation competition in National Tech Fest Abhiyanth 2019, Presented on Brainwave control System.
@@ -47,7 +47,7 @@ author_profile: true
 </div>
 
 <div class="talk-item" style="color: #1B1212;">
-<img src="../images/g3.jpeg" alt="Talk 1" class="talk-image" />
+<img loading="lazy" decoding="async" src="/images/g3.jpeg" alt="Talk 1" class="talk-image" />
 <div class="talk-details">
   <h3>First Position in Quiz and Debate Competition, Abhiyanth 2k18</h3>
   <p>Secured 1st Position in Quiz and Debate Competion as a team in National Tech Fest Abhiyanth 2018, Topic on Advanced Physics & Chemistry.
@@ -55,7 +55,7 @@ author_profile: true
 </div>
 </div>
 <div class="talk-item" style="color: #1B1212;">
-  <img src="../images/g1.jpg" alt="Talk 1" class="talk-image" />
+  <img loading="lazy" decoding="async" src="/images/g1.jpg" alt="Talk 1" class="talk-image" />
   <div class="talk-details">
     <h3>Merit in Cambridge International KET Exam 2017</h3>
     <p>Recieved the merit certificate of Cambridge ESOL Key English Test exam in 2017, Passed the exam with merit, Level A2.
@@ -63,7 +63,7 @@ author_profile: true
   </div>
   </div>
 <div class="talk-item" style="color: #1B1212;">
-<img src="../images/g5.jpg" alt="Talk 1" class="talk-image" />
+<img loading="lazy" decoding="async" src="/images/g5.jpg" alt="Talk 1" class="talk-image" />
 <div class="talk-details">
   <h3>Appreciation in Technical Project Expo in RGUKT University 2nd Convocation, 2017 </h3>
   <p>Received Appreciation Certificate in Technical Project Exhibition in our University 2nd Convocation, RGUKT-AP in 2017
@@ -72,7 +72,7 @@ author_profile: true
 </div>
 
 <div class="talk-item" style="color: #1B1212;">
-<img src="../images/g8.jpg" alt="Talk 1" class="talk-image" />
+<img loading="lazy" decoding="async" src="/images/g8.jpg" alt="Talk 1" class="talk-image" />
 <div class="talk-details">
   <h3>Honorable Mention in All India Essay Writing Event 2015</h3>
   <p>Received Merit and Honorable Mention among 10 lakh entries in All India Essay Writing Event 2015 by United Nations and SRCM.

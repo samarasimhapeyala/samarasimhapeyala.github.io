@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Samarasimha Reddy Peyala"
 title_separator          : "-"
 name                     : &name "Samarasimha Reddy"
-description              : &description "personal description"
+description              : &description "Samarasimha Reddy Peyala - AI Engineer working on computer vision, speech (TTS, ASR) and NLP."
 url                      : https://samarasimhapeyala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samarasimhapeyala/samarasimhapeyala.github.io"
@@ -21,10 +21,10 @@ repository               : "samarasimhapeyala/samarasimhapeyala.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "k.png"
+  avatar           : "samara-1.png"
   name             : "Samarasimha Reddy"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Engineer | Exploring Computer Vision - Face Synthesis | Speech - TTS Systems, ASR | NLP"
+  bio              : "AI Engineer | Generative AI, Agentic AI | Computer Vision | Speech - TTS, ASR | NLP"
   location         : "Hyderabad, India"
   employer         : #"Red Brick University"
   uri              : # URL
@@ -86,7 +86,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:

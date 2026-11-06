@@ -51,7 +51,7 @@ author_profile: true
 .updates-list a:hover {
   text-decoration: underline;
 }
-.updates-list, h3, p {
+.updates-list, .content-container h3, .content-container p {
   font-size: 14px;
 }
 </style>

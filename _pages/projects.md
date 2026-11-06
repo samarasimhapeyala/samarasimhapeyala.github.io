@@ -12,7 +12,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro1.png" width="200px" height="150px" />
+          <img loading="lazy" decoding="async" style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="/images/pro1.png" width="200px" height="150px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -30,7 +30,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro2.jpg" width="200px" height="200px" />
+          <img loading="lazy" decoding="async" style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="/images/pro2.jpg" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -48,7 +48,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro3.jpeg" width="200px" height="200px" />
+          <img loading="lazy" decoding="async" style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="/images/pro3.jpeg" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -66,7 +66,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro4.png" width="200px" height="200px" />
+          <img loading="lazy" decoding="async" style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="/images/pro4.png" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -84,7 +84,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro5.jpg" width="200px" height="200px" />
+          <img loading="lazy" decoding="async" style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="/images/pro5.jpg" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -102,7 +102,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro6.gif" width="200px" height="200px" />
+          <img loading="lazy" decoding="async" style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="/images/pro6.gif" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -120,7 +120,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro7.jpg" width="200px" height="200px" />
+          <img loading="lazy" decoding="async" style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="/images/pro7.jpg" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -138,7 +138,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro9.png" width="200px" height="200px" />
+          <img loading="lazy" decoding="async" style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="/images/pro9.png" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>
@@ -156,7 +156,7 @@ author_profile: true
     <tbody>
       <tr>
         <td style="width:200px; height:200px; vertical-align: top; border: none;">
-          <img style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="../images/pro8.png" width="200px" height="200px" />
+          <img loading="lazy" decoding="async" style="float: left; margin-right: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="/images/pro8.png" width="200px" height="200px" />
         </td>
         <td style="height: 200px; vertical-align: top; border: none; color: #1B1212; font-size: 15px;">
           <p>

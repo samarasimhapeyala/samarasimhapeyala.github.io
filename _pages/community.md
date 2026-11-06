@@ -36,13 +36,13 @@ author_profile: true
    
   <div class="talk-container">
         <div class="talk-item">
-            <img src="../images/g3.jpg" alt="Talk 1" class="talk-image" />
-            <img src="../images/g8.png" alt="Talk 2" class="talk-image" />
+            <img loading="lazy" decoding="async" src="/images/g3.jpg" alt="Talk 1" class="talk-image" />
+            <img loading="lazy" decoding="async" src="/images/g8.png" alt="Talk 2" class="talk-image" />
         </div>
         <div class="talk-item">
-          <img src="../images/g4.png" alt="Talk 1" class="talk-image1" />
-          <img src="../images/g55.jpg" alt="Talk 2" class="talk-image1" />
-          <img src="../images/n.JPG" alt="Talk 2" class="talk-image1" />
+          <img loading="lazy" decoding="async" src="/images/g4.png" alt="Talk 1" class="talk-image1" />
+          <img loading="lazy" decoding="async" src="/images/g55.jpg" alt="Talk 2" class="talk-image1" />
+          <img loading="lazy" decoding="async" src="/images/n.JPG" alt="Talk 2" class="talk-image1" />
       </div>
     </div>
     <br>
