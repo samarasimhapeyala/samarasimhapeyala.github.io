@@ -18,7 +18,7 @@ author_profile: true
           <p>
             Samarasimha Reddy <br />
             <strong>Blind Face Restoration and Image Enhancement</strong> <br />
-            <i>Apr, 2022 <a href="https://github.com/samarasimhapeyala" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Apr, 2022 <a href="https://github.com/samarasimhapeyala" style="color: #0284c7; text-decoration: none;">[Code]</a></i><br />
             <i>Trained the GFP-GAN on the FFHQ dataset, generating color images from black and white and enhancing old images into high resolution.</i>
           </p>
         </td>
@@ -36,7 +36,7 @@ author_profile: true
           <p>
             Samarasimha Reddy <br />
             <strong>Evaluating LMU with Attention LSTM Models on Time Series Data</strong> <br />
-            <i>July, 2021 <a href="https://github.com/samarasimhapeyala" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>July, 2021 <a href="https://github.com/samarasimhapeyala" style="color: #0284c7; text-decoration: none;">[Code]</a></i><br />
             <i>Implemented LMU Models on timeseries data and evaluated them with attention LSTM models during my Research Internship at IIT Guwahati.</i>
           </p>
         </td>
@@ -54,7 +54,7 @@ author_profile: true
           <p>
             Samarasimha Reddy, Manikanta Sannidi <br />
             <strong>Face Recognition Based Attendance System</strong> <br />
-            <i>Jan, 2021 <a href="https://github.com/samarasimhapeyala/Face-Recognition-Based-Attendance-App" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Jan, 2021 <a href="https://github.com/samarasimhapeyala/Face-Recognition-Based-Attendance-App" style="color: #0284c7; text-decoration: none;">[Code]</a></i><br />
             <i>Uses face recognition with Deep Learning and OpenCV to automatically mark attendance based on images captured.</i>
           </p>
         </td>
@@ -72,7 +72,7 @@ author_profile: true
           <p>
             Samarasimha Reddy <br />
             <strong>Life Expectancy Predictor</strong> <br />
-            <i>Jul, 2020 <a href="https://github.com/samarasimhapeyala/llSPS-INT-1983-Predicting-Life-Expectancy-using-Machine-Learning" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Jul, 2020 <a href="https://github.com/samarasimhapeyala/llSPS-INT-1983-Predicting-Life-Expectancy-using-Machine-Learning" style="color: #0284c7; text-decoration: none;">[Code]</a></i><br />
             <i>Predicts life expectancy based on user input using extra tree regression, deployed on IBM Cloud.</i>
           </p>
         </td>
@@ -90,7 +90,7 @@ author_profile: true
           <p>
             Samarasimha Reddy, Rohit Singh, Avinash, Charupriya S <br />
             <strong>Movie Recommendation System</strong> <br />
-            <i>Jul, 2020 <a href="https://github.com/samarasimhapeyala" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Jul, 2020 <a href="https://github.com/samarasimhapeyala" style="color: #0284c7; text-decoration: none;">[Code]</a></i><br />
             <i>Predicts movies based on user preferences using machine learning algorithms.</i>
           </p>
         </td>
@@ -108,7 +108,7 @@ author_profile: true
           <p>
             Samarasimha Reddy <br />
             <strong>Sentiment Analysis Model</strong> <br />
-            <i>Aug, 2020 <a href="https://github.com/samarasimhapeyala/Udacity-MLengineer-Nanodegree/tree/master/Deploy_a_sentiment_analysis_model" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Aug, 2020 <a href="https://github.com/samarasimhapeyala/Udacity-MLengineer-Nanodegree/tree/master/Deploy_a_sentiment_analysis_model" style="color: #0284c7; text-decoration: none;">[Code]</a></i><br />
             <i>Determines sentiment from movie reviews using recurrent neural networks.</i>
           </p>
         </td>
@@ -126,7 +126,7 @@ author_profile: true
           <p>
             Samarasimha Reddy <br />
             <strong>Plagiarism Detector</strong> <br />
-            <i>Jul, 2020 <a href="https://github.com/samarasimhapeyala/Udacity-MLengineer-Nanodegree/tree/master/Project-2%3A%20Plagiarism_Detector" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Jul, 2020 <a href="https://github.com/samarasimhapeyala/Udacity-MLengineer-Nanodegree/tree/master/Project-2%3A%20Plagiarism_Detector" style="color: #0284c7; text-decoration: none;">[Code]</a></i><br />
             <i>Examines text files for plagiarism using sklearn, deployed on AWS Cloud.</i>
           </p>
         </td>
@@ -144,7 +144,7 @@ author_profile: true
           <p>
             Samarasimha Reddy <br />
             <strong>Customer Churn Predictor</strong> <br />
-            <i>May, 2020 <a href="https://github.com/samarasimhapeyala/Machine-Learning-SummerTraining/tree/master/Final%20Project" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>May, 2020 <a href="https://github.com/samarasimhapeyala/Machine-Learning-SummerTraining/tree/master/Final%20Project" style="color: #0284c7; text-decoration: none;">[Code]</a></i><br />
             <i>Analyzes complex data patterns to predict customer churn in banks, enabling tailored retention strategies.</i>
           </p>
         </td>
@@ -162,7 +162,7 @@ author_profile: true
           <p>
             Samarasimha Reddy <br />
             <strong>Voice Controlled Home Automation</strong> <br />
-            <i>Mar, 2019 <a href="https://github.com/samarasimhapeyala/Voice-Controlled-Home-automation" style="color: #2985d8; text-decoration: none;">[Code]</a></i><br />
+            <i>Mar, 2019 <a href="https://github.com/samarasimhapeyala/Voice-Controlled-Home-automation" style="color: #0284c7; text-decoration: none;">[Code]</a></i><br />
             <i>Controls home devices using voice commands via IoT and NodeMCU.</i>
           </p>
         </td>

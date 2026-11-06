@@ -11,7 +11,7 @@ author_profile: true
 }
 .content-container a {
   text-decoration: none;
-  color: #4040FF;
+  color: #0284c7;
 }
 .content-container a:hover {
   text-decoration: underline;
@@ -27,7 +27,7 @@ author_profile: true
     <div class="list__item" style="width: 100%; padding: 0;">
         <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="margin: 10px 0; padding: 0;">
             <h2 class="archive__item-title" itemprop="headline">
-                <a href="https://medium.com/@samarasimhapeyala/measures-and-myths-of-artificial-intelligence-ai-ff47b093f03" rel="permalink" style="color: rgb(16, 158, 176); text-decoration: none;">Measures and Myths of Artificial Intelligence (AI)</a>
+                <a href="https://medium.com/@samarasimhapeyala/measures-and-myths-of-artificial-intelligence-ai-ff47b093f03" rel="permalink" style="color: #0284c7; text-decoration: none;">Measures and Myths of Artificial Intelligence (AI)</a>
             </h2>
             <p class="page__meta" style="font-size: 15px; margin: 5px 0;"><i class="fa fa-clock-o" aria-hidden="true"></i> less than 5 minute read</p>
             <p class="page__date" style="font-size: 15px; margin: 5px 0;"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2199-01-01T00:00:00+00:00">Jul, 2020</time></p>
@@ -39,7 +39,7 @@ author_profile: true
     <div class="list__item" style="width: 100%; padding: 0;">
         <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="margin: 10px 0; padding: 0;">
             <h2 class="archive__item-title" itemprop="headline">
-                <a href="https://medium.com/@samarasimhapeyala/introduction-to-artificial-intelligence-ai-c3c4acf9f9b3" rel="permalink" style="color: rgb(16, 158, 176);  text-decoration: none;">Introduction to Artificial Intelligence (AI)</a>
+                <a href="https://medium.com/@samarasimhapeyala/introduction-to-artificial-intelligence-ai-c3c4acf9f9b3" rel="permalink" style="color: #0284c7;  text-decoration: none;">Introduction to Artificial Intelligence (AI)</a>
             </h2>
             <p class="page__meta" style="font-size: 15px; margin: 5px 0;"><i class="fa fa-clock-o" aria-hidden="true"></i> less than 5 minute read</p>
             <p class="page__date" style="font-size: 15px; margin: 5px 0;"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2015-08-14T00:00:00+00:00">May, 2020</time></p>
@@ -123,7 +123,7 @@ author_profile: true
 </style>
 
 <h1 style="text-align: left;">Recommendations</h1>
-<p style="font-size: 15px;">These are the recommendations recieved on <a href="https://www.linkedin.com/in/samarasimhapeyala" style="color: rgb(16, 158, 176); text-decoration: none;">Linkedin</a> as we teamed up for the projects</p>
+<p style="font-size: 15px;">These are the recommendations recieved on <a href="https://www.linkedin.com/in/samarasimhapeyala" style="color: #0284c7; text-decoration: none;">Linkedin</a> as we teamed up for the projects</p>
 <div class="testimonials">
   <div class="testimonial-container">
     <div class="testimonial-slider" id="testimonialSlider">
@@ -135,7 +135,7 @@ author_profile: true
         <div class="client-info">
           <!--<img loading="lazy" decoding="async" src="client1.jpg" alt="Sara Willsson">-->
           <div>
-            <div class="client-name"><a href="https://www.linkedin.com/in/rohitsinghonline/" style="color: rgb(16, 158, 176); text-decoration: none;">Rohit Singh</a></div>
+            <div class="client-name"><a href="https://www.linkedin.com/in/rohitsinghonline/" style="color: #0284c7; text-decoration: none;">Rohit Singh</a></div>
             <div class="client-title">Azure Data Engineer</div>
           </div>
         </div>
@@ -148,7 +148,7 @@ author_profile: true
         <div class="client-info">
           <!--<img loading="lazy" decoding="async" src="client2.jpg" alt="Jena Karlis">-->
           <div>
-            <div class="client-name"><a href="https://www.linkedin.com/in/avinash-gundabathina-10846b140/" style="color: rgb(16, 158, 176); text-decoration: none;">Avinash Gundabathina</a></div>
+            <div class="client-name"><a href="https://www.linkedin.com/in/avinash-gundabathina-10846b140/" style="color: #0284c7; text-decoration: none;">Avinash Gundabathina</a></div>
             <div class="client-title">Senior Engineer</div>
           </div>
         </div>
@@ -161,7 +161,7 @@ author_profile: true
         <div class="client-info">
           <!--<img loading="lazy" decoding="async" src="client3.jpg" alt="Matt Brandon">-->
           <div>
-            <div class="client-name"><a href="https://www.linkedin.com/in/charupriya-s-b37504190/" style="color: rgb(16, 158, 176); text-decoration: none;">Charupriya S</a></div>
+            <div class="client-name"><a href="https://www.linkedin.com/in/charupriya-s-b37504190/" style="color: #0284c7; text-decoration: none;">Charupriya S</a></div>
             <div class="client-title">Software Engineer</div>
           </div>
         </div>

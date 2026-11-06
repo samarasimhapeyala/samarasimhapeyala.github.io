@@ -16,7 +16,7 @@ redirect_from:
 }
 .content-container a {
   text-decoration: none;
-  color: #4040FF;
+  color: #0284c7;
 }
 .content-container a:hover {
   text-decoration: underline;
@@ -48,7 +48,7 @@ redirect_from:
   margin: 10px 0;
 }
 .updates-list a {
-  color: #4040FF;
+  color: #0284c7;
   text-decoration: none;
 }
 .updates-list a:hover {
@@ -75,24 +75,24 @@ redirect_from:
 
 <div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6;">
 
-  <p style="font-size: 15px;">You can download my <a href="https://www.bits-pilani.ac.in/" style="color: rgb(16, 158, 176); text-decoration: none;">CV/ Resume</a> here</p>
+  <p style="font-size: 15px;">You can download my <a href="https://www.bits-pilani.ac.in/" style="color: #0284c7; text-decoration: none;">CV/ Resume</a> here</p>
 
 <h1 id="education">Education</h1>
 
 <ul>
     <li>
-        <strong><a href="https://www.bits-pilani.ac.in/" style="color: rgb(16, 158, 176); text-decoration: none;">Birla Institute of Technology And Science, Pilani (BITS Pilani)</a></strong>
+        <strong><a href="https://www.bits-pilani.ac.in/" style="color: #0284c7; text-decoration: none;">Birla Institute of Technology And Science, Pilani (BITS Pilani)</a></strong>
         <span style="float: right; font-style: italic;">Nov 2023 - Oct 2025</span><br>
         Master of Technology in Artificial Intelligence and Machine Learning<span style="float: right;"><strong>CGPA:</strong> 9.0/10 (2 Sems)</span>
         <br>
         <ul>
             <li><strong>Courses:</strong> Mathematics, Statistical Modelling, Artificial Intelligence, Deep Neural Networks, DRL, Natural Language Processing, Computer Vision, ML System Optimization</li>
-            <li>Pursuing Masters along with full-time job through BITS Pilani Work Integrated Learning Programmes.</li>
+            <li>Completed Masters along with full-time job through BITS Pilani Work Integrated Learning Programmes (WILP).</li>
         </ul>
     </li>
     
   <li>
-        <strong><a href="https://www.rguktrkv.ac.in/" style="color: rgb(16, 158, 176); text-decoration: none;">Rajiv Gandhi University of Knowledge Technologies, IIIT RK Valley</a></strong>
+        <strong><a href="https://www.rguktrkv.ac.in/" style="color: #0284c7; text-decoration: none;">Rajiv Gandhi University of Knowledge Technologies, IIIT RK Valley</a></strong>
         <span style="float: right; font-style: italic;">Aug 2018 - May 2022</span><br>
         Bachelor of Technology in Electronics and Communications Engineering<span style="float: right;"><strong>CGPA:</strong> 8.95/10</span><br>
         <ul>
@@ -102,7 +102,7 @@ redirect_from:
     </li>
     
   <li>
-        <strong><a href="https://www.rguktrkv.ac.in/" style="color: rgb(16, 158, 176); text-decoration: none;">Rajiv Gandhi University of Knowledge Technologies, IIIT RK Valley</a></strong>
+        <strong><a href="https://www.rguktrkv.ac.in/" style="color: #0284c7; text-decoration: none;">Rajiv Gandhi University of Knowledge Technologies, IIIT RK Valley</a></strong>
         <span style="float: right; font-style: italic;">Aug 2016 - May 2018</span><br>
         Pre University Course in Maths, Physics, Chemistry and IT<span style="float: right;"><strong>CGPA:</strong> 9.64/10</span><br>
         <ul>
@@ -114,13 +114,18 @@ redirect_from:
 <h1 id="work-experience">Work Experience</h1>
 <ul>
     <li>
-        <strong><a href="https://winter.inc/" style="color: rgb(16, 158, 176); text-decoration: none;">Winter</a></strong>
+        <strong><a href="https://winter.inc/" style="color: #0284c7; text-decoration: none;">Winter</a></strong>
         <span style="float: right; font-style: italic;">Jun 2025 - Present</span><br>
-        AI Engineer <span style="float: right;">India</span><br>
+        Software Engineer - AI Engineer <span style="float: right;">India</span><br>
+        <ul>
+            <li>Building intelligent AI solutions with a focus on Generative AI, Agentic AI, and production-ready AI systems.</li>
+            <li>Designing and developing end-to-end AI applications, from backend engineering with Python and FastAPI to deployment.</li>
+            <li>Integrating Large Language Models (LLMs) and building agentic workflows and APIs for real-world use cases.</li>
+        </ul>
     </li>
 
     <li>
-        <strong><a href="https://www.hitloop.it/" style="color: rgb(16, 158, 176); text-decoration: none;">Hitloop</a></strong>
+        <strong><a href="https://www.hitloop.it/" style="color: #0284c7; text-decoration: none;">Hitloop</a></strong>
         <span style="float: right; font-style: italic;">Apr 2023 - May 2025</span><br>
         Machine Learning Engineer <span style="float: right;">Hyderabad, India</span><br>
         <ul>
@@ -131,7 +136,7 @@ redirect_from:
     </li>
     
   <li>
-        <strong><a href="https://www.forsysinc.com/" style="color: rgb(16, 158, 176); text-decoration: none;">Forsys Inc</a></strong>
+        <strong><a href="https://www.forsysinc.com/" style="color: #0284c7; text-decoration: none;">Forsys Inc</a></strong>
         <span style="float: right; font-style: italic;">Jun 2022 - Apr 2023</span><br>
         Software Engineer I <span style="float: right;">Hyderabad, India</span><br>
         <ul>
@@ -142,9 +147,9 @@ redirect_from:
     </li>
 
   <li>
-        <strong><a href="https://www.iitg.ac.in/" style="color: rgb(16, 158, 176); text-decoration: none;">Indian Institute of Technology, IIT Guwahati</a></strong>
+        <strong><a href="https://www.iitg.ac.in/" style="color: #0284c7; text-decoration: none;">Indian Institute of Technology, IIT Guwahati</a></strong>
         <span style="float: right; font-style: italic;">Mar 2021 - Jul 2021</span><br>
-        Research Intern - <em>Guide: <a href="https://www.iitg.ac.in/eee/faculty_profile.php?name=grt" style="color: rgb(16, 158, 176); text-decoration: none;"> Dr. Gourav Trivedi</a>, Assoc. Prof, EEE, IIT Guwahati</em><span style="float: right;">Remote</span><br>
+        Research Intern - <em>Guide: <a href="https://www.iitg.ac.in/eee/faculty_profile.php?name=grt" style="color: #0284c7; text-decoration: none;"> Dr. Gourav Trivedi</a>, Assoc. Prof, EEE, IIT Guwahati</em><span style="float: right;">Remote</span><br>
         <ul>
             <li>Learned and worked on Deep Learning Recurrent Networks, LSTMs, attention models, time series analysis.</li>
             <li>Successfully completed project: <em>"Comparison of LMU with Attention LSTM models on Time Series Data"</em></li>
@@ -152,7 +157,7 @@ redirect_from:
     </li>
     
   <li>
-        <strong><a href="https://iitism.acm.org/" style="color: rgb(16, 158, 176); text-decoration: none;">ACM Student Chapter, IIT(ISM) Dhanbad</a></strong>
+        <strong><a href="https://iitism.acm.org/" style="color: #0284c7; text-decoration: none;">ACM Student Chapter, IIT(ISM) Dhanbad</a></strong>
         <span style="float: right; font-style: italic;">Jul 2020 - Aug 2020</span><br>
         Machine Learning Intern<span style="float: right;">Remote</span><br>
         <ul>
@@ -162,7 +167,7 @@ redirect_from:
     </li>
     
   <li>
-        <strong><a href="https://www.thesmartbridge.com/" style="color: rgb(16, 158, 176); text-decoration: none;">Smart Bridge Educational Services Pvt. Ltd</a></strong>
+        <strong><a href="https://www.thesmartbridge.com/" style="color: #0284c7; text-decoration: none;">Smart Bridge Educational Services Pvt. Ltd</a></strong>
         <span style="float: right; font-style: italic;">May 2020 - Jun 2020</span><br>
         Summer Intern<span style="float: right;">Remote</span><br>
         <ul>

@@ -1,0 +1,170 @@
+/* ==========================================================================
+   Modern touches: soft sky-blue accent, frosted header, light cards
+   ========================================================================== */
+
+$accent: #0ea5e9;          // sky blue
+$accent-strong: #0284c7;   // readable sky blue for text/links
+$accent-soft: #f0f9ff;     // very light sky tint
+$accent-line: #bae6fd;
+$ink: #1f2937;
+$muted: #64748b;
+$line: #e2e8f0;
+
+html { scroll-behavior: smooth; }
+::selection { background: rgba($accent, 0.22); }
+:focus-visible { outline: 2px solid $accent; outline-offset: 2px; border-radius: 4px; }
+
+body {
+  color: $ink;
+  background: linear-gradient(180deg, $accent-soft 0, #fff 340px) no-repeat, #fff;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Headings: short sky-blue bar under section titles */
+h1, h2, h3, h4 { letter-spacing: -0.01em; color: #0f172a; }
+.page__content h2, .archive h2 {
+  border-bottom: 1px solid $line;
+  padding-bottom: 0.35em;
+  background: linear-gradient($accent, $accent) left bottom / 44px 3px no-repeat;
+}
+
+/* Header: frosted, thin line */
+.masthead {
+  background: rgba(255, 255, 255, 0.78);
+  -webkit-backdrop-filter: saturate(180%) blur(12px);
+  backdrop-filter: saturate(180%) blur(12px);
+  border-bottom: 1px solid $line;
+  box-shadow: none;
+}
+.masthead__menu-item a, .masthead__menu-item--lg a { color: $muted; transition: color .2s ease; position: relative; }
+.masthead__menu-item a:hover, .masthead__menu-item--lg a:hover { color: $accent-strong; }
+.masthead__menu-item:not(.masthead__menu-item--lg) a::after {
+  content: ""; position: absolute; left: 0; right: 0; bottom: -6px; height: 2px;
+  background: $accent; transform: scaleX(0); transition: transform .2s ease; border-radius: 2px;
+}
+.masthead__menu-item:not(.masthead__menu-item--lg) a:hover::after { transform: scaleX(1); }
+.greedy-nav button { background: $accent; }
+.greedy-nav button:hover { background: $accent-strong; }
+
+/* Links */
+.page__content a, .content-container a, .archive a { color: $accent-strong; transition: color .15s ease; }
+.page__content a:hover, .content-container a:hover { color: darken($accent-strong, 10%); }
+
+/* Sidebar / profile */
+.author__avatar img {
+  border-radius: 50% !important;
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 2px $accent-line, 0 10px 28px rgba(14, 165, 233, 0.22);
+}
+.author__name { font-weight: 700; color: #0f172a; }
+.author__bio { color: $muted; }
+.author__urls a { color: $muted; transition: color .15s ease; }
+.author__urls a:hover { color: $accent-strong; }
+.author__urls li a { border-radius: 8px; }
+
+/* Timeline logos: gentle lift */
+.content-container > div[style*="display: flex"] > div { transition: transform .2s ease; }
+.content-container > div[style*="display: flex"] > div:hover { transform: translateY(-3px); }
+
+/* Research highlight */
+.research-interest {
+  background: $accent-soft !important;
+  border: 1px solid $accent-line;
+  border-left: 4px solid $accent;
+  border-radius: 10px !important;
+  padding: 14px 16px !important;
+}
+.research-interest:hover { background: $accent-soft !important; }
+
+/* Updates list: timeline dots */
+.updates-list li {
+  position: relative;
+  padding: 8px 0 8px 16px;
+  border-left: 2px solid $accent-line;
+  margin: 0 !important;
+}
+.updates-list li::before {
+  content: ""; position: absolute; left: -6px; top: 17px; width: 10px; height: 10px;
+  border-radius: 50%; background: #fff; border: 2px solid $accent;
+}
+
+/* Images, tables, buttons */
+.page__content img, .talk-image, .talk-image1 { border-radius: 10px; }
+table { border-radius: 10px; }
+.btn { background: $accent; border-radius: 999px; color: #fff; }
+.btn:hover { background: $accent-strong; }
+
+/* Footer */
+.page__footer { background: $accent-soft; border-top: 1px solid $accent-line; color: $muted; }
+.page__footer a { color: $muted; }
+.page__footer a:hover { color: $accent-strong; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; scroll-behavior: auto !important; }
+}
+
+/* ---- Menu: one consistent sky-blue state for hover / focus / current page ---- */
+.masthead__menu-item a:hover,
+.masthead__menu-item a:focus,
+.masthead__menu-item a:active,
+.masthead__menu-item a:visited:hover { color: $accent-strong !important; text-decoration: none; }
+.masthead__menu-item:not(.masthead__menu-item--lg) a.is-current { color: $accent-strong; font-weight: 600; }
+.masthead__menu-item:not(.masthead__menu-item--lg) a.is-current::after { transform: scaleX(1); }
+
+/* ---- Scroll progress bar ---- */
+.scroll-progress {
+  position: fixed; top: 0; left: 0; height: 3px; width: 0; z-index: 9999;
+  background: linear-gradient(90deg, $accent, #38bdf8);
+  border-radius: 0 3px 3px 0;
+  transition: width .08s linear;
+}
+
+/* ---- Back to top ---- */
+.back-to-top {
+  position: fixed; right: 22px; bottom: 22px; z-index: 9998;
+  width: 42px; height: 42px; border-radius: 50%; border: 1px solid $accent-line;
+  background: rgba(255, 255, 255, 0.9); color: $accent-strong; font-size: 18px; line-height: 1;
+  box-shadow: 0 6px 18px rgba(14, 165, 233, 0.2); cursor: pointer;
+  opacity: 0; pointer-events: none; transform: translateY(10px);
+  transition: opacity .25s ease, transform .25s ease, background .2s ease;
+}
+.back-to-top.show { opacity: 1; pointer-events: auto; transform: none; }
+.back-to-top:hover { background: $accent; color: #fff; }
+
+/* ---- Reveal on scroll (only active when JS adds .reveal) ---- */
+.reveal { opacity: 0; transform: translateY(14px); transition: opacity .6s ease, transform .6s ease; }
+.reveal.is-visible { opacity: 1; transform: none; }
+
+/* ---- Topic chips ---- */
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 18px; padding: 0; list-style: none; }
+.chips li {
+  padding: 5px 12px; font-size: 13px; font-weight: 500; color: $accent-strong;
+  background: $accent-soft; border: 1px solid $accent-line; border-radius: 999px;
+  transition: background .2s ease, transform .2s ease;
+}
+.chips li:hover { background: #e0f2fe; transform: translateY(-1px); }
+
+/* ---- Availability pill in the sidebar ---- */
+.status-pill {
+  display: inline-flex; align-items: center; gap: 7px; margin: 6px 0 4px;
+  padding: 4px 11px; font-size: 12px; font-weight: 500; color: #166534;
+  background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 999px;
+}
+.status-pill::before {
+  content: ""; width: 8px; height: 8px; border-radius: 50%; background: #22c55e;
+  box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.6); animation: pulse-dot 2s infinite;
+}
+@keyframes pulse-dot {
+  0% { box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.55); }
+  70% { box-shadow: 0 0 0 8px rgba(34, 197, 94, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(34, 197, 94, 0); }
+}
+
+/* ---- Cards for project / award rows ---- */
+.talk-container, .page__content table { transition: transform .2s ease, box-shadow .2s ease; }
+.talk-container:hover { transform: translateY(-2px); box-shadow: 0 10px 26px rgba(14, 165, 233, 0.12); }
+
+/* Tighter space between page content and footer */
+body { padding-bottom: 0; }  /* theme JS already reserves room for the footer via body margin-bottom */
+.page__footer { margin-top: 1.5em; }

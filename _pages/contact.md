@@ -13,7 +13,7 @@ author_profile: true
 }
 .content-container a {
   text-decoration: none;
-  color: #4040FF;
+  color: #0284c7;
 }
 .content-container a:hover {
   text-decoration: underline;
@@ -45,7 +45,7 @@ author_profile: true
   margin: 10px 0;
 }
 .updates-list a {
-  color: #4040FF;
+  color: #0284c7;
   text-decoration: none;
 }
 .updates-list a:hover {
@@ -72,11 +72,11 @@ author_profile: true
 
 <div class="content-container" style="font-family: Arial, sans-serif; line-height: 1.6; font-size: 15px; padding: 0; margin: 0;">
 
-<p>Let's Connect. Click here to send a quick message : )</p>
+<p>Let's connect! The best way to reach me is a <a href="https://www.linkedin.com/in/samarasimhapeyala/">LinkedIn DM</a> or the form below. You can also email me at <a href="mailto:resnur.labs@gmail.com">resnur.labs@gmail.com</a>.</p>
     
 <div class="col-lg-12 mt-5 mt-lg-0 d-flex align-items-stretch">
-    <form action="https://formspree.io/mbjzdajy" method="post" role="form" style="border: 2px solid #2985d8; border-radius: 10px; padding: 20px; background-color: #f9f9f9; width: 100%;">
-      <h2 class="text-center" style="color: #2985d8;">📩 Contact Me</h2>
+    <form action="https://formspree.io/mbjzdajy" method="post" role="form" style="border: 2px solid #0284c7; border-radius: 10px; padding: 20px; background-color: #f9f9f9; width: 100%;">
+      <h2 class="text-center" style="color: #0284c7;">📩 Contact Me</h2>
       <div class="row">
         <div class="form-group col-md-6">
           <label for="name">👤 Your Name</label>
@@ -96,7 +96,7 @@ author_profile: true
         <textarea class="form-control" name="message" rows="10" required></textarea>
       </div>
       <div class="text-center">
-        <button type="submit" style="background-color: #2985d8; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
+        <button type="submit" style="background-color: #0284c7; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
           ✉️ Send Message
         </button>
       </div>
