@@ -125,7 +125,7 @@ redirect_from:
     </li>
 
     <li>
-        <strong><a href="https://www.hitloop.it/" style="color: #0284c7; text-decoration: none;">Hitloop</a></strong>
+        <strong><a href="https://www.hitloop.it/" style="color: #0284c7; text-decoration: none;">Hitloop</a></strong> (currently <a href="https://ambitos.com/" style="color: #0284c7; text-decoration: none;">Ambitos</a>, <a href="https://aiprof.com/" style="color: #0284c7; text-decoration: none;">AiProf</a>, <a href="https://youpsc.com/" style="color: #0284c7; text-decoration: none;">Youpsc</a>)
         <span style="float: right; font-style: italic;">Apr 2023 - May 2025</span><br>
         Machine Learning Engineer <span style="float: right;">Hyderabad, India</span><br>
         <ul>

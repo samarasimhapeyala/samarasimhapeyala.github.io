@@ -74,7 +74,7 @@ redirect_from:
   <h1>Bio</h1>
   <p style="font-size: 15px;">I am currently working as an <strong>AI Engineer at <a href="https://winter.inc/">Winter</a></strong>, where I build intelligent AI solutions with a focus on Generative AI, Agentic AI, and production-ready AI systems. My work spans designing and developing end-to-end AI applications, from backend engineering with Python and FastAPI to LLM integrations, agentic workflows, API development, and deployment.</p>
 
-  <p style="font-size: 15px;">Previously, I worked as a <strong>Machine Learning Engineer at <a href="https://www.hitloop.it/">Hitloop</a></strong>, where I contributed to research-driven AI projects across Speech, Computer Vision, NLP, and Large Language Models (LLMs). My experience includes developing multimodal, multilingual, and multitask AI systems, exploring generative approaches for face synthesis and lip regeneration, building Text-to-Speech (TTS) and Automatic Speech Recognition (ASR) solutions, and working on NLP applications such as machine translation.</p>
+  <p style="font-size: 15px;">Previously, I worked as a <strong>Machine Learning Engineer at <a href="https://www.hitloop.it/">Hitloop</a></strong> (currently <a href="https://ambitos.com/">Ambitos</a>, <a href="https://aiprof.com/">AiProf</a>, <a href="https://youpsc.com/">Youpsc</a>), where I contributed to research-driven AI projects across Speech, Computer Vision, NLP, and Large Language Models (LLMs). My experience includes developing multimodal, multilingual, and multitask AI systems, exploring generative approaches for face synthesis and lip regeneration, building Text-to-Speech (TTS) and Automatic Speech Recognition (ASR) solutions, and working on NLP applications such as machine translation.</p>
 
   <p style="font-size: 15px;">I hold an <strong>M.Tech in Artificial Intelligence and Machine Learning from BITS Pilani (WILP, 2023–2025)</strong>, which I completed alongside my full-time professional career. I also have a strong research foundation, having previously worked as a research intern at IIT Guwahati.</p>
 
@@ -117,7 +117,7 @@ redirect_from:
     <div style="height: 100px; display: flex; align-items: center; justify-content: center;">
       <img loading="lazy" decoding="async" src="/images/hitloop2.png" alt="Logo3" style="width: 135px; height: 43.74px;">
     </div>
-    <div style="font-size: 12px; color: #1B1212; margin-top: 10px;">Machine Learning Engineer, <a href="https://www.hitloop.it/" style="color: #0284c7; text-decoration: none;">Hitloop</a>, India<br>Apr. 2023 - May. 2025</div>
+    <div style="font-size: 12px; color: #1B1212; margin-top: 10px;">Machine Learning Engineer, <a href="https://www.hitloop.it/" style="color: #0284c7; text-decoration: none;">Hitloop</a>, India<br>(currently <a href="https://ambitos.com/" style="color: #0284c7; text-decoration: none;">Ambitos</a>, <a href="https://aiprof.com/" style="color: #0284c7; text-decoration: none;">AiProf</a>, <a href="https://youpsc.com/" style="color: #0284c7; text-decoration: none;">Youpsc</a>)<br>Apr. 2023 - May. 2025</div>
   </div>
   <div style="flex: 1.1; text-align: center; margin: 10px;">
     <div style="height: 100px; display: flex; align-items: center; justify-content: center;">
